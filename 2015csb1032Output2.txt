@@ -1,0 +1,268 @@
+Pattern Shashi found at index 14585
+Pattern Shashi found at index 28739
+Pattern Shashi found at index 28729
+Pattern Shashi found at index 28723
+Pattern Shashi found at index 14640
+Pattern Shashi found at index 14629
+Pattern Shashi found at index 14618
+Pattern Shashi found at index 14608
+Pattern Shashi found at index 14598
+There are 9 matches for pattern Shashi
+
+Pattern bhashi found at index 15098
+Pattern bhashi found at index 29664
+There are 2 matches for pattern bhashi
+
+Pattern dhashi found at index 15129
+There are 1 matches for pattern dhashi
+
+Pattern shashi found at index 31221
+There are 1 matches for pattern shashi
+
+Pattern Sutapa found at index 30319
+There are 1 matches for pattern Sutapa
+
+Pattern ramesh found at index 11095
+Pattern ramesh found at index 26235
+Pattern ramesh found at index 11752
+Pattern ramesh found at index 11103
+There are 4 matches for pattern ramesh
+
+Pattern Hemend found at index 6164
+Pattern Hemend found at index 6172
+There are 2 matches for pattern Hemend
+
+Pattern remend found at index 12016
+There are 1 matches for pattern remend
+
+Pattern ubhash found at index 15097
+Pattern ubhash found at index 29663
+Pattern ubhash found at index 15504
+There are 3 matches for pattern ubhash
+
+Pattern aShish found at index 14801
+There are 1 matches for pattern aShish
+
+Pattern anhish found at index 31420
+There are 1 matches for pattern anhish
+
+Pattern ashish found at index 60
+Pattern ashish found at index 14642
+Pattern ashish found at index 3877
+There are 3 matches for pattern ashish
+
+Pattern aditya found at index 17591
+Pattern aditya found at index 8538
+Pattern aditya found at index 7259
+Pattern aditya found at index 4340
+Pattern aditya found at index 2477
+Pattern aditya found at index 2117
+There are 6 matches for pattern aditya
+
+Pattern aditya found at index 17591
+Pattern aditya found at index 8538
+Pattern aditya found at index 7259
+Pattern aditya found at index 4340
+Pattern aditya found at index 2477
+Pattern aditya found at index 2117
+There are 6 matches for pattern aditya
+
+Pattern hirshi found at index 14788
+There are 1 matches for pattern hirshi
+
+Pattern himanC found at index 3401
+There are 1 matches for pattern himanC
+
+Pattern himanR found at index 13065
+There are 1 matches for pattern himanR
+
+Pattern himand found at index 182
+There are 1 matches for pattern himand
+
+Pattern himani found at index 190
+There are 1 matches for pattern himani
+
+Pattern himany found at index 198
+Pattern himany found at index 207
+There are 2 matches for pattern himany
+
+Pattern Keshav found at index 8045
+There are 1 matches for pattern Keshav
+
+Pattern Fanish found at index 5092
+Pattern Fanish found at index 5098
+There are 2 matches for pattern Fanish
+
+Pattern Kanish found at index 7771
+Pattern Kanish found at index 7779
+There are 2 matches for pattern Kanish
+
+Pattern Manish found at index 9168
+Pattern Manish found at index 24765
+Pattern Manish found at index 24758
+Pattern Manish found at index 9174
+There are 4 matches for pattern Manish
+
+Pattern hanish found at index 11424
+Pattern hanish found at index 20650
+There are 2 matches for pattern hanish
+
+Pattern vanish found at index 1983
+There are 1 matches for pattern vanish
+
+Pattern prabha found at index 30339
+Pattern prabha found at index 30144
+Pattern prabha found at index 27358
+Pattern prabha found at index 27329
+Pattern prabha found at index 20434
+Pattern prabha found at index 19986
+Pattern prabha found at index 19030
+There are 7 matches for pattern prabha
+
+Pattern prasha found at index 16366
+There are 1 matches for pattern prasha
+
+Pattern pratik found at index 15931
+There are 1 matches for pattern pratik
+
+Pattern Sanjay found at index 13727
+There are 1 matches for pattern Sanjay
+
+Pattern nanjay found at index 4242
+There are 1 matches for pattern nanjay
+
+Pattern ranjay found at index 4697
+Pattern ranjay found at index 12205
+Pattern ranjay found at index 11133
+There are 3 matches for pattern ranjay
+
+Pattern shivaS found at index 13330
+There are 1 matches for pattern shivaS
+
+Pattern shikha found at index 31424
+Pattern shikha found at index 20445
+There are 2 matches for pattern shikha
+
+Pattern shubhr found at index 12586
+There are 1 matches for pattern shubhr
+
+Pattern aShish found at index 14801
+There are 1 matches for pattern aShish
+
+Pattern anhish found at index 31420
+There are 1 matches for pattern anhish
+
+Pattern ashish found at index 60
+Pattern ashish found at index 14642
+Pattern ashish found at index 3877
+There are 3 matches for pattern ashish
+
+Pattern aNitya found at index 25981
+Pattern aNitya found at index 25976
+Pattern aNitya found at index 10673
+There are 3 matches for pattern aNitya
+
+Pattern aditya found at index 17591
+Pattern aditya found at index 8538
+Pattern aditya found at index 7259
+Pattern aditya found at index 4340
+Pattern aditya found at index 2477
+Pattern aditya found at index 2117
+There are 6 matches for pattern aditya
+
+Pattern harCha found at index 2909
+Pattern harCha found at index 3170
+There are 2 matches for pattern harCha
+
+Pattern harDha found at index 4286
+There are 1 matches for pattern harDha
+
+Pattern harSha found at index 14318
+Pattern harSha found at index 14650
+Pattern harSha found at index 14605
+There are 3 matches for pattern harSha
+
+Pattern hartha found at index 15204
+There are 1 matches for pattern hartha
+
+Pattern kumara found at index 704
+Pattern kumara found at index 15269
+Pattern kumara found at index 14174
+There are 3 matches for pattern kumara
+
+Pattern naRang found at index 27146
+There are 1 matches for pattern naRang
+
+Pattern Snigdh found at index 29482
+There are 1 matches for pattern Snigdh
+
+Pattern Abhish found at index 287
+There are 1 matches for pattern Abhish
+
+Pattern ibhish found at index 17456
+There are 1 matches for pattern ibhish
+
+Pattern akshay found at index 20266
+There are 1 matches for pattern akshay
+
+Pattern anujDa found at index 3743
+There are 1 matches for pattern anujDa
+
+Pattern anujMa found at index 9296
+There are 1 matches for pattern anujMa
+
+Pattern anujTa found at index 16256
+There are 1 matches for pattern anujTa
+
+Pattern eelava found at index 24001
+There are 1 matches for pattern eelava
+
+Pattern nishan found at index 9176
+There are 1 matches for pattern nishan
+
+Pattern ranjit found at index 3226
+There are 1 matches for pattern ranjit
+
+Pattern shashi found at index 31221
+There are 1 matches for pattern shashi
+
+Pattern Vishal found at index 17756
+Pattern Vishal found at index 31828
+Pattern Vishal found at index 31821
+There are 3 matches for pattern Vishal
+
+Pattern aishal found at index 31311
+There are 1 matches for pattern aishal
+
+Pattern rishal found at index 30960
+There are 1 matches for pattern rishal
+
+Pattern haAnah found at index 18723
+There are 1 matches for pattern haAnah
+
+Pattern jaswin found at index 26065
+Pattern jaswin found at index 30763
+There are 2 matches for pattern jaswin
+
+Pattern martha found at index 11087
+There are 1 matches for pattern martha
+
+Pattern mohamm found at index 11462
+There are 1 matches for pattern mohamm
+
+Pattern mohamm found at index 11462
+There are 1 matches for pattern mohamm
+
+Pattern natSan found at index 13664
+There are 1 matches for pattern natSan
+
+Pattern nathan found at index 13257
+Pattern nathan found at index 6511
+There are 2 matches for pattern nathan
+
+Pattern mohamm found at index 11462
+There are 1 matches for pattern mohamm
+
+Pattern evanIl found at index 6428
+There are 1 matches for pattern evanIl
+

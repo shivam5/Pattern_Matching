@@ -1,0 +1,4968 @@
+********************************************************************************************
+For pattern :MUKESH
+Pattern MUKESH found at index 0
+Pattern MUKESH found at index 9678
+There are 2 matches for pattern MUKESH
+
+False Positives: 
+0	0	0	
+0	0	0	
+0	0	0	
+0	0	0	
+
+Comparisons: 
+2	8	2	
+488	488	488	
+3	7	3	
+3	2	5	
+
+********************************************************************************************
+For pattern :GURPAR
+False Positives: 
+1	0	0	
+1	1	1	
+1	1	0	
+0	0	1	
+
+Comparisons: 
+3	8	2	
+876	876	876	
+4	8	3	
+3	2	7	
+
+********************************************************************************************
+For pattern :MANJIT
+False Positives: 
+2	0	1	
+2	2	2	
+1	2	1	
+1	1	1	
+
+Comparisons: 
+6	8	3	
+1616	1616	1616	
+4	10	5	
+5	3	7	
+
+********************************************************************************************
+For pattern :KUBERC
+Pattern KUBERC found at index 8353
+There are 1 matches for pattern KUBERC
+
+False Positives: 
+2	0	1	
+2	2	2	
+1	2	1	
+1	1	1	
+
+Comparisons: 
+8	13	6	
+2413	2413	2413	
+8	12	6	
+6	4	10	
+
+********************************************************************************************
+For pattern :SHASHI
+Pattern SHASHI found at index 14585
+Pattern SHASHI found at index 31221
+Pattern SHASHI found at index 28739
+Pattern SHASHI found at index 28729
+Pattern SHASHI found at index 28723
+Pattern SHASHI found at index 14640
+Pattern SHASHI found at index 14629
+Pattern SHASHI found at index 14618
+Pattern SHASHI found at index 14608
+Pattern SHASHI found at index 14598
+There are 10 matches for pattern SHASHI
+
+False Positives: 
+2	0	1	
+2	2	2	
+1	2	1	
+1	1	1	
+
+Comparisons: 
+19	24	16	
+3229	3229	3229	
+18	22	17	
+16	14	20	
+
+********************************************************************************************
+For pattern :VIJEND
+Pattern VIJEND found at index 17548
+There are 1 matches for pattern VIJEND
+
+False Positives: 
+2	0	1	
+2	2	2	
+1	2	1	
+1	1	1	
+
+Comparisons: 
+21	26	19	
+4045	4045	4045	
+19	23	19	
+18	19	22	
+
+********************************************************************************************
+For pattern :BELLAM
+False Positives: 
+3	1	1	
+3	3	3	
+2	3	1	
+1	1	2	
+
+Comparisons: 
+24	27	19	
+4517	4517	4517	
+21	24	19	
+18	19	24	
+
+********************************************************************************************
+For pattern :SUTAPA
+Pattern SUTAPA found at index 30319
+There are 1 matches for pattern SUTAPA
+
+False Positives: 
+3	1	1	
+3	3	3	
+2	3	1	
+1	1	2	
+
+Comparisons: 
+26	28	20	
+4978	4978	4978	
+22	26	20	
+20	22	26	
+
+********************************************************************************************
+For pattern :RAMESH
+Pattern RAMESH found at index 11095
+Pattern RAMESH found at index 27114
+Pattern RAMESH found at index 26235
+Pattern RAMESH found at index 12754
+Pattern RAMESH found at index 12748
+Pattern RAMESH found at index 11752
+Pattern RAMESH found at index 11103
+There are 7 matches for pattern RAMESH
+
+False Positives: 
+3	1	1	
+3	3	3	
+2	3	1	
+1	1	2	
+
+Comparisons: 
+33	38	27	
+5794	5794	5794	
+29	33	27	
+28	29	33	
+
+********************************************************************************************
+For pattern :HEMEND
+Pattern HEMEND found at index 6164
+Pattern HEMEND found at index 6172
+There are 2 matches for pattern HEMEND
+
+False Positives: 
+3	1	1	
+3	3	3	
+2	3	1	
+1	1	2	
+
+Comparisons: 
+36	42	31	
+6428	6428	6428	
+32	35	30	
+30	31	36	
+
+********************************************************************************************
+For pattern :ABHASH
+False Positives: 
+3	1	2	
+4	4	4	
+2	4	2	
+2	2	3	
+
+Comparisons: 
+36	42	36	
+6735	6735	6735	
+32	37	31	
+33	32	37	
+
+********************************************************************************************
+For pattern :ABHISH
+Pattern ABHISH found at index 287
+There are 1 matches for pattern ABHISH
+
+False Positives: 
+3	1	2	
+4	4	4	
+2	4	2	
+2	2	3	
+
+Comparisons: 
+38	45	38	
+7287	7287	7287	
+33	41	34	
+37	34	39	
+
+********************************************************************************************
+For pattern :ADITYA
+Pattern ADITYA found at index 585
+Pattern ADITYA found at index 17591
+Pattern ADITYA found at index 8538
+Pattern ADITYA found at index 7259
+Pattern ADITYA found at index 4340
+Pattern ADITYA found at index 2477
+Pattern ADITYA found at index 2117
+Pattern ADITYA found at index 604
+Pattern ADITYA found at index 591
+There are 9 matches for pattern ADITYA
+
+False Positives: 
+3	1	2	
+4	4	4	
+2	4	2	
+2	2	3	
+
+Comparisons: 
+48	55	48	
+8084	8084	8084	
+45	54	44	
+46	43	48	
+
+********************************************************************************************
+For pattern :ADITYA
+Pattern ADITYA found at index 585
+Pattern ADITYA found at index 17591
+Pattern ADITYA found at index 8538
+Pattern ADITYA found at index 7259
+Pattern ADITYA found at index 4340
+Pattern ADITYA found at index 2477
+Pattern ADITYA found at index 2117
+Pattern ADITYA found at index 604
+Pattern ADITYA found at index 591
+There are 9 matches for pattern ADITYA
+
+False Positives: 
+3	1	2	
+4	4	4	
+2	4	2	
+2	2	3	
+
+Comparisons: 
+58	65	58	
+8881	8881	8881	
+57	67	54	
+55	52	57	
+
+********************************************************************************************
+For pattern :ALLUKR
+False Positives: 
+3	2	3	
+5	5	5	
+3	4	3	
+2	3	4	
+
+Comparisons: 
+58	66	59	
+9482	9482	9482	
+58	67	56	
+55	54	58	
+
+********************************************************************************************
+For pattern :ALOKKI
+False Positives: 
+4	3	4	
+6	6	6	
+4	4	4	
+2	4	5	
+
+Comparisons: 
+60	68	60	
+10393	10393	10393	
+59	67	57	
+55	56	59	
+
+********************************************************************************************
+For pattern :ANIRUD
+Pattern ANIRUD found at index 1325
+Pattern ANIRUD found at index 27512
+There are 2 matches for pattern ANIRUD
+
+False Positives: 
+4	3	4	
+6	6	6	
+4	4	4	
+2	4	5	
+
+Comparisons: 
+65	71	65	
+11133	11133	11133	
+62	69	63	
+58	58	61	
+
+********************************************************************************************
+For pattern :BANDIY
+False Positives: 
+5	4	5	
+7	7	7	
+5	4	4	
+3	5	6	
+
+Comparisons: 
+67	73	69	
+11942	11942	11942	
+65	69	63	
+59	61	62	
+
+********************************************************************************************
+For pattern :CHAUDH
+False Positives: 
+5	5	6	
+8	8	8	
+6	5	5	
+3	5	6	
+
+Comparisons: 
+67	75	71	
+12414	12414	12414	
+68	71	64	
+59	61	62	
+
+********************************************************************************************
+For pattern :EESHAA
+False Positives: 
+6	6	7	
+9	9	9	
+6	5	5	
+4	5	7	
+
+Comparisons: 
+68	77	72	
+12721	12721	12721	
+68	71	64	
+61	61	68	
+
+********************************************************************************************
+For pattern :HARSHI
+Pattern HARSHI found at index 6049
+Pattern HARSHI found at index 21732
+Pattern HARSHI found at index 21724
+Pattern HARSHI found at index 21716
+Pattern HARSHI found at index 14768
+Pattern HARSHI found at index 6056
+There are 6 matches for pattern HARSHI
+
+False Positives: 
+6	6	7	
+9	9	9	
+6	5	5	
+4	5	7	
+
+Comparisons: 
+78	87	82	
+13544	13544	13544	
+75	78	71	
+68	68	74	
+
+********************************************************************************************
+For pattern :HIMANS
+Pattern HIMANS found at index 6209
+There are 1 matches for pattern HIMANS
+
+False Positives: 
+6	6	7	
+9	9	9	
+6	5	5	
+4	5	7	
+
+Comparisons: 
+82	89	85	
+14360	14360	14360	
+76	79	74	
+69	69	76	
+
+********************************************************************************************
+For pattern :JATING
+False Positives: 
+6	7	7	
+10	10	10	
+6	6	6	
+4	6	7	
+
+Comparisons: 
+82	90	85	
+15198	15198	15198	
+76	82	75	
+69	73	76	
+
+********************************************************************************************
+For pattern :KATTAS
+False Positives: 
+6	8	7	
+11	11	11	
+6	7	7	
+5	7	7	
+
+Comparisons: 
+82	91	85	
+15832	15832	15832	
+76	84	77	
+70	75	76	
+
+********************************************************************************************
+For pattern :KESHAV
+Pattern KESHAV found at index 8045
+There are 1 matches for pattern KESHAV
+
+False Positives: 
+6	8	7	
+11	11	11	
+6	7	7	
+5	7	7	
+
+Comparisons: 
+85	92	89	
+16613	16613	16613	
+77	87	79	
+72	76	80	
+
+********************************************************************************************
+For pattern :KOUSTA
+False Positives: 
+6	9	7	
+12	12	12	
+6	8	8	
+5	8	7	
+
+Comparisons: 
+85	95	89	
+16817	16817	16817	
+77	89	81	
+72	78	80	
+
+********************************************************************************************
+For pattern :MANASG
+False Positives: 
+7	10	7	
+13	13	13	
+6	8	9	
+5	9	8	
+
+Comparisons: 
+86	100	89	
+17626	17626	17626	
+77	89	82	
+72	79	81	
+
+********************************************************************************************
+For pattern :MANISH
+Pattern MANISH found at index 9168
+Pattern MANISH found at index 25926
+Pattern MANISH found at index 24765
+Pattern MANISH found at index 24758
+Pattern MANISH found at index 14783
+Pattern MANISH found at index 10599
+Pattern MANISH found at index 9174
+There are 7 matches for pattern MANISH
+
+False Positives: 
+7	10	7	
+13	13	13	
+6	8	9	
+5	9	8	
+
+Comparisons: 
+93	109	96	
+18442	18442	18442	
+85	96	89	
+80	89	93	
+
+********************************************************************************************
+For pattern :NNIKHI
+False Positives: 
+8	11	8	
+14	14	14	
+6	8	10	
+5	9	9	
+
+Comparisons: 
+95	111	98	
+19231	19231	19231	
+85	96	91	
+80	89	95	
+
+********************************************************************************************
+For pattern :NAMANG
+False Positives: 
+8	11	8	
+15	15	15	
+7	8	11	
+6	9	10	
+
+Comparisons: 
+95	111	98	
+19945	19945	19945	
+86	96	92	
+81	89	97	
+
+********************************************************************************************
+For pattern :PANKAJ
+Pattern PANKAJ found at index 26210
+Pattern PANKAJ found at index 11033
+There are 2 matches for pattern PANKAJ
+
+False Positives: 
+8	11	8	
+15	15	15	
+7	8	11	
+6	9	10	
+
+Comparisons: 
+97	115	100	
+20712	20712	20712	
+88	100	96	
+84	93	101	
+
+********************************************************************************************
+For pattern :PIYUSH
+Pattern PIYUSH found at index 11478
+There are 1 matches for pattern PIYUSH
+
+False Positives: 
+8	11	8	
+15	15	15	
+7	8	11	
+6	9	10	
+
+Comparisons: 
+98	116	101	
+20774	20774	20774	
+91	103	102	
+85	96	102	
+
+********************************************************************************************
+For pattern :PRATHA
+False Positives: 
+8	12	8	
+16	16	16	
+7	9	12	
+7	10	11	
+
+Comparisons: 
+98	121	101	
+21590	21590	21590	
+91	104	103	
+87	97	103	
+
+********************************************************************************************
+For pattern :PRATIK
+Pattern PRATIK found at index 15931
+Pattern PRATIK found at index 11925
+There are 2 matches for pattern PRATIK
+
+False Positives: 
+8	12	8	
+16	16	16	
+7	9	12	
+7	10	11	
+
+Comparisons: 
+101	123	103	
+22191	22191	22191	
+93	107	106	
+90	100	106	
+
+********************************************************************************************
+For pattern :RAJATS
+Pattern RAJATS found at index 12581
+There are 1 matches for pattern RAJATS
+
+False Positives: 
+8	12	8	
+16	16	16	
+7	9	12	
+7	10	11	
+
+Comparisons: 
+107	124	107	
+22878	22878	22878	
+95	109	108	
+92	101	107	
+
+********************************************************************************************
+For pattern :SACHIN
+Pattern SACHIN found at index 13296
+There are 1 matches for pattern SACHIN
+
+False Positives: 
+8	12	8	
+16	16	16	
+7	9	12	
+7	10	11	
+
+Comparisons: 
+108	125	111	
+23602	23602	23602	
+98	112	109	
+95	102	109	
+
+********************************************************************************************
+For pattern :SANJAY
+Pattern SANJAY found at index 13727
+There are 1 matches for pattern SANJAY
+
+False Positives: 
+8	12	8	
+16	16	16	
+7	9	12	
+7	10	11	
+
+Comparisons: 
+109	126	113	
+24319	24319	24319	
+99	114	112	
+97	105	112	
+
+********************************************************************************************
+For pattern :SARTHA
+Pattern SARTHA found at index 13904
+There are 1 matches for pattern SARTHA
+
+False Positives: 
+8	12	8	
+16	16	16	
+7	9	12	
+7	10	11	
+
+Comparisons: 
+110	127	115	
+25059	25059	25059	
+100	117	114	
+99	110	115	
+
+********************************************************************************************
+For pattern :SDMAHA
+False Positives: 
+8	13	9	
+17	17	17	
+8	10	12	
+8	11	11	
+
+Comparisons: 
+110	128	117	
+25649	25649	25649	
+105	120	114	
+100	111	115	
+
+********************************************************************************************
+For pattern :SHIVAM
+False Positives: 
+9	14	10	
+18	18	18	
+9	11	13	
+8	12	11	
+
+Comparisons: 
+112	130	118	
+26283	26283	26283	
+107	122	115	
+100	112	115	
+
+********************************************************************************************
+For pattern :SONUCS
+False Positives: 
+10	14	10	
+19	19	19	
+10	11	13	
+9	12	11	
+
+Comparisons: 
+118	130	118	
+26399	26399	26399	
+108	122	115	
+101	112	115	
+
+********************************************************************************************
+For pattern :SOUMYA
+Pattern SOUMYA found at index 29581
+Pattern SOUMYA found at index 15403
+There are 2 matches for pattern SOUMYA
+
+False Positives: 
+10	14	10	
+19	19	19	
+10	11	13	
+9	12	11	
+
+Comparisons: 
+121	132	120	
+26487	26487	26487	
+112	125	119	
+105	115	117	
+
+********************************************************************************************
+For pattern :SUMITS
+Pattern SUMITS found at index 15848
+Pattern SUMITS found at index 15853
+There are 2 matches for pattern SUMITS
+
+False Positives: 
+10	14	10	
+19	19	19	
+10	11	13	
+9	12	11	
+
+Comparisons: 
+124	134	122	
+26526	26526	26526	
+116	127	125	
+108	119	169	
+
+********************************************************************************************
+For pattern :THOTAV
+False Positives: 
+11	15	11	
+20	20	20	
+10	12	13	
+10	12	12	
+
+Comparisons: 
+125	135	123	
+26747	26747	26747	
+116	129	125	
+111	119	171	
+
+********************************************************************************************
+For pattern :UNITBH
+False Positives: 
+12	15	11	
+21	21	21	
+10	13	13	
+11	13	12	
+
+Comparisons: 
+129	135	123	
+27317	27317	27317	
+116	130	125	
+112	122	171	
+
+********************************************************************************************
+For pattern :VINITJ
+False Positives: 
+13	16	11	
+22	22	22	
+10	13	13	
+11	14	12	
+
+Comparisons: 
+130	136	123	
+27593	27593	27593	
+116	130	125	
+112	126	171	
+
+********************************************************************************************
+For pattern :VISHAL
+Pattern VISHAL found at index 17756
+Pattern VISHAL found at index 31828
+Pattern VISHAL found at index 31821
+There are 3 matches for pattern VISHAL
+
+False Positives: 
+13	16	11	
+22	22	22	
+10	13	13	
+11	14	12	
+
+Comparisons: 
+134	139	126	
+28278	28278	28278	
+119	133	128	
+119	134	178	
+
+********************************************************************************************
+For pattern :NAROTA
+False Positives: 
+14	16	12	
+23	23	23	
+11	13	13	
+11	14	12	
+
+Comparisons: 
+136	139	127	
+28965	28965	28965	
+120	133	128	
+119	134	178	
+
+********************************************************************************************
+For pattern :NITTIN
+False Positives: 
+15	17	13	
+24	24	24	
+11	14	14	
+12	14	13	
+
+Comparisons: 
+137	140	128	
+29186	29186	29186	
+120	134	129	
+121	134	180	
+
+********************************************************************************************
+For pattern :SHREYA
+Pattern SHREYA found at index 29056
+Pattern SHREYA found at index 29050
+Pattern SHREYA found at index 14932
+There are 3 matches for pattern SHREYA
+
+False Positives: 
+15	17	13	
+24	24	24	
+11	14	14	
+12	14	13	
+
+Comparisons: 
+142	146	132	
+29678	29678	29678	
+124	138	132	
+125	137	183	
+
+********************************************************************************************
+For pattern :SHIKHA
+Pattern SHIKHA found at index 14758
+Pattern SHIKHA found at index 31424
+Pattern SHIKHA found at index 28825
+Pattern SHIKHA found at index 20445
+Pattern SHIKHA found at index 14764
+There are 5 matches for pattern SHIKHA
+
+False Positives: 
+15	17	13	
+24	24	24	
+11	14	14	
+12	14	13	
+
+Comparisons: 
+147	151	137	
+30472	30472	30472	
+129	143	138	
+132	142	188	
+
+********************************************************************************************
+For pattern :SHUBHA
+Pattern SHUBHA found at index 29192
+Pattern SHUBHA found at index 29178
+Pattern SHUBHA found at index 15095
+Pattern SHUBHA found at index 15085
+Pattern SHUBHA found at index 15077
+Pattern SHUBHA found at index 15071
+There are 6 matches for pattern SHUBHA
+
+False Positives: 
+15	17	13	
+24	24	24	
+11	14	14	
+12	14	13	
+
+Comparisons: 
+153	157	144	
+31383	31383	31383	
+136	154	144	
+139	149	194	
+
+********************************************************************************************
+For pattern :ABHISH
+Pattern ABHISH found at index 287
+There are 1 matches for pattern ABHISH
+
+False Positives: 
+15	17	13	
+24	24	24	
+11	14	14	
+12	14	13	
+
+Comparisons: 
+155	160	146	
+31935	31935	31935	
+137	158	147	
+143	151	196	
+
+********************************************************************************************
+For pattern :ABHISH
+Pattern ABHISH found at index 287
+There are 1 matches for pattern ABHISH
+
+False Positives: 
+15	17	13	
+24	24	24	
+11	14	14	
+12	14	13	
+
+Comparisons: 
+157	163	148	
+32487	32487	32487	
+138	162	150	
+147	153	198	
+
+********************************************************************************************
+For pattern :ABHISH
+Pattern ABHISH found at index 287
+There are 1 matches for pattern ABHISH
+
+False Positives: 
+15	17	13	
+24	24	24	
+11	14	14	
+12	14	13	
+
+Comparisons: 
+159	166	150	
+33039	33039	33039	
+139	166	153	
+151	155	200	
+
+********************************************************************************************
+For pattern :ADITYA
+Pattern ADITYA found at index 585
+Pattern ADITYA found at index 17591
+Pattern ADITYA found at index 8538
+Pattern ADITYA found at index 7259
+Pattern ADITYA found at index 4340
+Pattern ADITYA found at index 2477
+Pattern ADITYA found at index 2117
+Pattern ADITYA found at index 604
+Pattern ADITYA found at index 591
+There are 9 matches for pattern ADITYA
+
+False Positives: 
+15	17	13	
+24	24	24	
+11	14	14	
+12	14	13	
+
+Comparisons: 
+169	176	160	
+33836	33836	33836	
+151	179	163	
+160	164	209	
+
+********************************************************************************************
+For pattern :AKASHM
+False Positives: 
+16	17	13	
+25	25	25	
+12	15	15	
+12	15	14	
+
+Comparisons: 
+173	176	160	
+34603	34603	34603	
+152	180	164	
+160	171	211	
+
+********************************************************************************************
+For pattern :ANILKU
+False Positives: 
+16	17	14	
+26	26	26	
+12	16	15	
+13	15	14	
+
+Comparisons: 
+173	176	161	
+35332	35332	35332	
+152	182	164	
+162	171	211	
+
+********************************************************************************************
+For pattern :ANKITY
+False Positives: 
+16	18	15	
+27	27	27	
+13	16	16	
+13	16	14	
+
+Comparisons: 
+173	177	162	
+35731	35731	35731	
+153	182	166	
+162	173	211	
+
+********************************************************************************************
+For pattern :ARPITS
+False Positives: 
+17	19	16	
+28	28	28	
+13	17	16	
+14	16	14	
+
+Comparisons: 
+174	178	163	
+36059	36059	36059	
+153	183	166	
+164	173	211	
+
+********************************************************************************************
+For pattern :BHANUS
+False Positives: 
+18	20	17	
+29	29	29	
+14	18	17	
+15	16	14	
+
+Comparisons: 
+176	181	165	
+36848	36848	36848	
+156	185	169	
+165	173	211	
+
+********************************************************************************************
+For pattern :DURGES
+False Positives: 
+18	20	17	
+30	30	30	
+15	18	18	
+16	17	14	
+
+Comparisons: 
+176	181	165	
+37418	37418	37418	
+157	185	173	
+168	178	211	
+
+********************************************************************************************
+For pattern :ESHANI
+Pattern ESHANI found at index 20959
+Pattern ESHANI found at index 1322
+There are 2 matches for pattern ESHANI
+
+False Positives: 
+18	20	17	
+30	30	30	
+15	18	18	
+16	17	14	
+
+Comparisons: 
+178	183	167	
+38212	38212	38212	
+161	193	177	
+173	181	215	
+
+********************************************************************************************
+For pattern :GAURAV
+Pattern GAURAV found at index 5381
+There are 1 matches for pattern GAURAV
+
+False Positives: 
+18	20	17	
+30	30	30	
+15	18	18	
+16	17	14	
+
+Comparisons: 
+179	184	168	
+38929	38929	38929	
+162	194	182	
+175	185	216	
+
+********************************************************************************************
+For pattern :HARSHA
+Pattern HARSHA found at index 6007
+Pattern HARSHA found at index 21708
+Pattern HARSHA found at index 21702
+Pattern HARSHA found at index 14650
+Pattern HARSHA found at index 14605
+Pattern HARSHA found at index 14318
+Pattern HARSHA found at index 6036
+Pattern HARSHA found at index 6027
+Pattern HARSHA found at index 6020
+Pattern HARSHA found at index 6013
+There are 10 matches for pattern HARSHA
+
+False Positives: 
+18	20	17	
+30	30	30	
+15	18	18	
+16	17	14	
+
+Comparisons: 
+193	197	181	
+39738	39738	39738	
+173	204	194	
+185	197	227	
+
+********************************************************************************************
+For pattern :HARSHJ
+False Positives: 
+19	21	17	
+31	31	31	
+15	18	19	
+17	18	14	
+
+Comparisons: 
+194	199	181	
+40554	40554	40554	
+173	204	195	
+186	198	227	
+
+********************************************************************************************
+For pattern :JITEND
+Pattern JITEND found at index 7359
+There are 1 matches for pattern JITEND
+
+False Positives: 
+19	21	17	
+31	31	31	
+15	18	19	
+17	18	14	
+
+Comparisons: 
+198	202	185	
+41353	41353	41353	
+176	209	196	
+187	201	229	
+
+********************************************************************************************
+For pattern :JYOTIP
+Pattern JYOTIP found at index 7446
+There are 1 matches for pattern JYOTIP
+
+False Positives: 
+19	21	17	
+31	31	31	
+15	18	19	
+17	18	14	
+
+Comparisons: 
+200	204	188	
+41436	41436	41436	
+177	212	199	
+188	204	232	
+
+********************************************************************************************
+For pattern :JYOTSN
+Pattern JYOTSN found at index 22796
+There are 1 matches for pattern JYOTSN
+
+False Positives: 
+19	21	17	
+31	31	31	
+15	18	19	
+17	18	14	
+
+Comparisons: 
+202	206	189	
+41464	41464	41464	
+179	214	202	
+190	207	234	
+
+********************************************************************************************
+For pattern :KARTIK
+Pattern KARTIK found at index 7881
+Pattern KARTIK found at index 7887
+There are 2 matches for pattern KARTIK
+
+False Positives: 
+19	21	17	
+31	31	31	
+15	18	19	
+17	18	14	
+
+Comparisons: 
+204	210	191	
+42181	42181	42181	
+181	216	205	
+192	209	236	
+
+********************************************************************************************
+For pattern :KINSHU
+Pattern KINSHU found at index 8135
+There are 1 matches for pattern KINSHU
+
+False Positives: 
+19	21	17	
+31	31	31	
+15	18	19	
+17	18	14	
+
+Comparisons: 
+205	212	192	
+42516	42516	42516	
+184	217	206	
+194	210	237	
+
+********************************************************************************************
+For pattern :KUMARA
+Pattern KUMARA found at index 704
+Pattern KUMARA found at index 15269
+Pattern KUMARA found at index 14174
+There are 3 matches for pattern KUMARA
+
+False Positives: 
+19	21	17	
+31	31	31	
+15	18	19	
+17	18	14	
+
+Comparisons: 
+208	216	203	
+43305	43305	43305	
+191	222	210	
+197	222	241	
+
+********************************************************************************************
+For pattern :KURKUR
+False Positives: 
+20	21	18	
+32	32	32	
+16	19	20	
+18	19	14	
+
+Comparisons: 
+210	216	205	
+43340	43340	43340	
+193	223	213	
+201	224	241	
+
+********************************************************************************************
+For pattern :KUSHAL
+Pattern KUSHAL found at index 23766
+Pattern KUSHAL found at index 8446
+There are 2 matches for pattern KUSHAL
+
+False Positives: 
+20	21	18	
+32	32	32	
+16	19	20	
+18	19	14	
+
+Comparisons: 
+212	220	207	
+43974	43974	43974	
+195	226	215	
+203	227	243	
+
+********************************************************************************************
+For pattern :LALASH
+False Positives: 
+20	22	18	
+33	33	33	
+16	20	21	
+19	19	15	
+
+Comparisons: 
+212	222	207	
+44741	44741	44741	
+195	233	216	
+204	227	245	
+
+********************************************************************************************
+For pattern :NAMANG
+False Positives: 
+20	22	18	
+34	34	34	
+17	20	22	
+20	19	16	
+
+Comparisons: 
+212	222	207	
+45455	45455	45455	
+196	233	217	
+205	227	247	
+
+********************************************************************************************
+For pattern :NIKHIL
+Pattern NIKHIL found at index 10345
+Pattern NIKHIL found at index 25798
+Pattern NIKHIL found at index 10351
+There are 3 matches for pattern NIKHIL
+
+False Positives: 
+20	22	18	
+34	34	34	
+17	20	22	
+20	19	16	
+
+Comparisons: 
+218	229	217	
+46278	46278	46278	
+201	236	223	
+209	230	251	
+
+********************************************************************************************
+For pattern :OMRAJB
+False Positives: 
+21	22	18	
+35	35	35	
+17	21	23	
+20	20	16	
+
+Comparisons: 
+220	229	217	
+47189	47189	47189	
+201	237	225	
+209	231	251	
+
+********************************************************************************************
+For pattern :PARIKS
+Pattern PARIKS found at index 11218
+There are 1 matches for pattern PARIKS
+
+False Positives: 
+21	22	18	
+35	35	35	
+17	21	23	
+20	20	16	
+
+Comparisons: 
+221	230	218	
+47759	47759	47759	
+205	240	226	
+211	233	252	
+
+********************************************************************************************
+For pattern :PRATYU
+False Positives: 
+21	22	19	
+36	36	36	
+18	21	23	
+21	20	16	
+
+Comparisons: 
+221	230	219	
+47798	47798	47798	
+207	240	226	
+212	233	252	
+
+********************************************************************************************
+For pattern :RAGHAV
+Pattern RAGHAV found at index 12410
+Pattern RAGHAV found at index 12416
+There are 2 matches for pattern RAGHAV
+
+False Positives: 
+21	22	19	
+36	36	36	
+18	21	23	
+21	20	16	
+
+Comparisons: 
+223	232	223	
+48562	48562	48562	
+209	243	228	
+215	237	255	
+
+********************************************************************************************
+For pattern :ROHANA
+False Positives: 
+22	23	20	
+37	37	37	
+19	22	23	
+22	21	16	
+
+Comparisons: 
+224	234	224	
+49326	49326	49326	
+210	245	228	
+216	238	255	
+
+********************************************************************************************
+For pattern :SNIGDH
+Pattern SNIGDH found at index 29482
+There are 1 matches for pattern SNIGDH
+
+False Positives: 
+22	23	20	
+37	37	37	
+19	22	23	
+22	21	16	
+
+Comparisons: 
+225	236	231	
+50164	50164	50164	
+214	248	230	
+219	240	257	
+
+********************************************************************************************
+For pattern :TANAYN
+False Positives: 
+23	23	20	
+38	38	38	
+20	22	24	
+23	21	17	
+
+Comparisons: 
+229	236	231	
+50765	50765	50765	
+217	248	234	
+221	240	258	
+
+********************************************************************************************
+For pattern :UTTAMS
+False Positives: 
+24	23	21	
+39	39	39	
+20	23	25	
+23	21	18	
+
+Comparisons: 
+231	236	232	
+50853	50853	50853	
+217	254	236	
+221	240	259	
+
+********************************************************************************************
+For pattern :YVIJAY
+False Positives: 
+24	23	21	
+40	40	40	
+21	23	25	
+23	21	19	
+
+Comparisons: 
+231	236	232	
+50946	50946	50946	
+218	254	236	
+221	240	260	
+
+********************************************************************************************
+For pattern :AAKASH
+Pattern AAKASH found at index 39
+Pattern AAKASH found at index 832
+There are 2 matches for pattern AAKASH
+
+False Positives: 
+24	23	21	
+40	40	40	
+21	23	25	
+23	21	19	
+
+Comparisons: 
+233	241	234	
+51311	51311	51311	
+222	256	239	
+224	245	263	
+
+********************************************************************************************
+For pattern :ABHISH
+Pattern ABHISH found at index 287
+There are 1 matches for pattern ABHISH
+
+False Positives: 
+24	23	21	
+40	40	40	
+21	23	25	
+23	21	19	
+
+Comparisons: 
+235	244	236	
+51863	51863	51863	
+223	260	242	
+228	247	265	
+
+********************************************************************************************
+For pattern :AKSHAY
+Pattern AKSHAY found at index 892
+Pattern AKSHAY found at index 20266
+Pattern AKSHAY found at index 18513
+There are 3 matches for pattern AKSHAY
+
+False Positives: 
+24	23	21	
+40	40	40	
+21	23	25	
+23	21	19	
+
+Comparisons: 
+238	247	240	
+52652	52652	52652	
+226	265	245	
+237	252	268	
+
+********************************************************************************************
+For pattern :AMBUJG
+False Positives: 
+25	23	22	
+41	41	41	
+22	24	26	
+24	22	19	
+
+Comparisons: 
+239	247	243	
+53376	53376	53376	
+227	266	247	
+238	256	268	
+
+********************************************************************************************
+For pattern :ANUJKA
+False Positives: 
+26	24	23	
+42	42	42	
+22	24	27	
+24	22	20	
+
+Comparisons: 
+241	250	245	
+54180	54180	54180	
+227	266	248	
+238	256	269	
+
+********************************************************************************************
+For pattern :AVINAS
+Pattern AVINAS found at index 2003
+There are 1 matches for pattern AVINAS
+
+False Positives: 
+26	24	23	
+42	42	42	
+22	24	27	
+24	22	20	
+
+Comparisons: 
+246	255	250	
+54961	54961	54961	
+228	267	250	
+239	257	270	
+
+********************************************************************************************
+For pattern :DEVADA
+Pattern DEVADA found at index 4017
+Pattern DEVADA found at index 4035
+Pattern DEVADA found at index 4028
+There are 3 matches for pattern DEVADA
+
+False Positives: 
+26	24	23	
+42	42	42	
+22	24	27	
+24	22	20	
+
+Comparisons: 
+250	261	254	
+55156	55156	55156	
+231	271	254	
+243	261	273	
+
+********************************************************************************************
+For pattern :DUSHYA
+Pattern DUSHYA found at index 4711
+There are 1 matches for pattern DUSHYA
+
+False Positives: 
+26	24	23	
+42	42	42	
+22	24	27	
+24	22	20	
+
+Comparisons: 
+253	262	255	
+55617	55617	55617	
+233	273	256	
+244	262	277	
+
+********************************************************************************************
+For pattern :EKJOTS
+False Positives: 
+26	25	24	
+43	43	43	
+22	24	27	
+25	22	21	
+
+Comparisons: 
+253	263	256	
+56016	56016	56016	
+233	273	256	
+245	262	278	
+
+********************************************************************************************
+For pattern :ESLAVA
+False Positives: 
+27	25	24	
+44	44	44	
+23	24	27	
+26	23	22	
+
+Comparisons: 
+255	263	256	
+56813	56813	56813	
+234	273	256	
+247	263	279	
+
+********************************************************************************************
+For pattern :GAURAV
+Pattern GAURAV found at index 5381
+There are 1 matches for pattern GAURAV
+
+False Positives: 
+27	25	24	
+44	44	44	
+23	24	27	
+26	23	22	
+
+Comparisons: 
+256	264	257	
+57530	57530	57530	
+235	274	261	
+249	267	280	
+
+********************************************************************************************
+For pattern :HARSHS
+False Positives: 
+28	26	24	
+45	45	45	
+23	24	28	
+27	23	22	
+
+Comparisons: 
+257	267	257	
+58079	58079	58079	
+235	274	262	
+252	267	280	
+
+********************************************************************************************
+For pattern :HARSHA
+Pattern HARSHA found at index 6007
+Pattern HARSHA found at index 21708
+Pattern HARSHA found at index 21702
+Pattern HARSHA found at index 14650
+Pattern HARSHA found at index 14605
+Pattern HARSHA found at index 14318
+Pattern HARSHA found at index 6036
+Pattern HARSHA found at index 6027
+Pattern HARSHA found at index 6020
+Pattern HARSHA found at index 6013
+There are 10 matches for pattern HARSHA
+
+False Positives: 
+28	26	24	
+45	45	45	
+23	24	28	
+27	23	22	
+
+Comparisons: 
+271	280	270	
+58888	58888	58888	
+246	284	274	
+262	279	291	
+
+********************************************************************************************
+For pattern :MAYANK
+Pattern MAYANK found at index 9370
+Pattern MAYANK found at index 9364
+There are 2 matches for pattern MAYANK
+
+False Positives: 
+28	26	24	
+45	45	45	
+23	24	28	
+27	23	22	
+
+Comparisons: 
+273	282	273	
+59677	59677	59677	
+248	288	276	
+264	284	295	
+
+********************************************************************************************
+For pattern :MOHSAH
+False Positives: 
+28	27	25	
+46	46	46	
+23	24	28	
+27	23	22	
+
+Comparisons: 
+273	287	276	
+60493	60493	60493	
+248	288	276	
+264	284	295	
+
+********************************************************************************************
+For pattern :NABAJI
+False Positives: 
+28	27	26	
+47	47	47	
+24	25	29	
+28	24	22	
+
+Comparisons: 
+273	287	279	
+60688	60688	60688	
+249	293	278	
+268	285	295	
+
+********************************************************************************************
+For pattern :NISHAN
+Pattern NISHAN found at index 1347
+Pattern NISHAN found at index 25928
+Pattern NISHAN found at index 10549
+Pattern NISHAN found at index 10540
+Pattern NISHAN found at index 9176
+There are 5 matches for pattern NISHAN
+
+False Positives: 
+28	27	26	
+47	47	47	
+24	25	29	
+28	24	22	
+
+Comparisons: 
+280	293	285	
+61477	61477	61477	
+254	300	283	
+276	293	301	
+
+********************************************************************************************
+For pattern :PRAGYA
+Pattern PRAGYA found at index 26524
+Pattern PRAGYA found at index 26510
+Pattern PRAGYA found at index 26504
+There are 3 matches for pattern PRAGYA
+
+False Positives: 
+28	27	26	
+47	47	47	
+24	25	29	
+28	24	22	
+
+Comparisons: 
+283	298	288	
+62206	62206	62206	
+257	309	287	
+280	297	305	
+
+********************************************************************************************
+For pattern :PRANIT
+Pattern PRANIT found at index 11792
+There are 1 matches for pattern PRANIT
+
+False Positives: 
+28	27	26	
+47	47	47	
+24	25	29	
+28	24	22	
+
+Comparisons: 
+284	299	290	
+62667	62667	62667	
+261	312	288	
+281	298	306	
+
+********************************************************************************************
+For pattern :RAHULY
+False Positives: 
+29	27	26	
+48	48	48	
+25	26	29	
+28	24	23	
+
+Comparisons: 
+287	299	290	
+62884	62884	62884	
+262	313	288	
+281	298	307	
+
+********************************************************************************************
+For pattern :RANJIT
+Pattern RANJIT found at index 3226
+Pattern RANJIT found at index 27195
+Pattern RANJIT found at index 12904
+There are 3 matches for pattern RANJIT
+
+False Positives: 
+29	27	26	
+48	48	48	
+25	26	29	
+28	24	23	
+
+Comparisons: 
+290	303	293	
+63518	63518	63518	
+266	318	292	
+284	304	314	
+
+********************************************************************************************
+For pattern :RATANK
+False Positives: 
+29	27	27	
+49	49	49	
+26	27	30	
+28	24	24	
+
+Comparisons: 
+290	303	296	
+64307	64307	64307	
+267	319	293	
+284	304	315	
+
+********************************************************************************************
+For pattern :RISHAB
+Pattern RISHAB found at index 13084
+Pattern RISHAB found at index 28458
+There are 2 matches for pattern RISHAB
+
+False Positives: 
+29	27	27	
+49	49	49	
+26	27	30	
+28	24	24	
+
+Comparisons: 
+294	305	300	
+65071	65071	65071	
+270	322	302	
+287	307	318	
+
+********************************************************************************************
+For pattern :RISHAB
+Pattern RISHAB found at index 13084
+Pattern RISHAB found at index 28458
+There are 2 matches for pattern RISHAB
+
+False Positives: 
+29	27	27	
+49	49	49	
+26	27	30	
+28	24	24	
+
+Comparisons: 
+298	307	304	
+65835	65835	65835	
+273	325	311	
+290	310	321	
+
+********************************************************************************************
+For pattern :RITIKR
+Pattern RITIKR found at index 23612
+There are 1 matches for pattern RITIKR
+
+False Positives: 
+29	27	27	
+49	49	49	
+26	27	30	
+28	24	24	
+
+Comparisons: 
+300	308	307	
+66052	66052	66052	
+274	327	313	
+292	311	325	
+
+********************************************************************************************
+For pattern :ROHANP
+False Positives: 
+29	27	27	
+50	50	50	
+26	28	31	
+29	24	25	
+
+Comparisons: 
+300	308	307	
+66686	66686	66686	
+274	328	317	
+294	311	327	
+
+********************************************************************************************
+For pattern :ROHITK
+False Positives: 
+29	27	27	
+51	51	51	
+27	28	32	
+29	24	26	
+
+Comparisons: 
+300	308	307	
+67074	67074	67074	
+276	328	318	
+294	311	328	
+
+********************************************************************************************
+For pattern :RUSHIT
+False Positives: 
+30	28	28	
+52	52	52	
+27	28	33	
+30	24	26	
+
+Comparisons: 
+301	311	309	
+67157	67157	67157	
+276	328	321	
+297	311	328	
+
+********************************************************************************************
+For pattern :SACHAN
+False Positives: 
+31	29	29	
+53	53	53	
+28	29	33	
+30	24	27	
+
+Comparisons: 
+302	312	310	
+67747	67747	67747	
+278	329	321	
+297	311	330	
+
+********************************************************************************************
+For pattern :SACHIN
+Pattern SACHIN found at index 13296
+There are 1 matches for pattern SACHIN
+
+False Positives: 
+31	29	29	
+53	53	53	
+28	29	33	
+30	24	27	
+
+Comparisons: 
+303	313	314	
+68471	68471	68471	
+281	332	322	
+300	312	332	
+
+********************************************************************************************
+For pattern :SANDEE
+Pattern SANDEE found at index 13698
+Pattern SANDEE found at index 13705
+There are 2 matches for pattern SANDEE
+
+False Positives: 
+31	29	29	
+53	53	53	
+28	29	33	
+30	24	27	
+
+Comparisons: 
+305	315	317	
+69124	69124	69124	
+284	334	326	
+306	316	334	
+
+********************************************************************************************
+For pattern :SHASHI
+Pattern SHASHI found at index 14585
+Pattern SHASHI found at index 31221
+Pattern SHASHI found at index 28739
+Pattern SHASHI found at index 28729
+Pattern SHASHI found at index 28723
+Pattern SHASHI found at index 14640
+Pattern SHASHI found at index 14629
+Pattern SHASHI found at index 14618
+Pattern SHASHI found at index 14608
+Pattern SHASHI found at index 14598
+There are 10 matches for pattern SHASHI
+
+False Positives: 
+31	29	29	
+53	53	53	
+28	29	33	
+30	24	27	
+
+Comparisons: 
+316	326	327	
+69940	69940	69940	
+294	344	337	
+316	326	344	
+
+********************************************************************************************
+For pattern :SUMITK
+False Positives: 
+32	29	30	
+54	54	54	
+29	29	34	
+31	25	28	
+
+Comparisons: 
+318	326	331	
+70058	70058	70058	
+295	344	341	
+317	327	346	
+
+********************************************************************************************
+For pattern :SUVEER
+False Positives: 
+33	30	31	
+55	55	55	
+29	29	34	
+32	25	29	
+
+Comparisons: 
+319	327	347	
+70188	70188	70188	
+295	344	341	
+318	327	348	
+
+********************************************************************************************
+For pattern :VIKASH
+False Positives: 
+33	31	31	
+56	56	56	
+29	29	35	
+33	26	30	
+
+Comparisons: 
+319	328	347	
+70905	70905	70905	
+295	344	342	
+319	329	350	
+
+********************************************************************************************
+For pattern :AAKASH
+Pattern AAKASH found at index 39
+Pattern AAKASH found at index 832
+There are 2 matches for pattern AAKASH
+
+False Positives: 
+33	31	31	
+56	56	56	
+29	29	35	
+33	26	30	
+
+Comparisons: 
+321	333	349	
+71270	71270	71270	
+299	346	345	
+322	334	353	
+
+********************************************************************************************
+For pattern :ANKITK
+False Positives: 
+34	32	32	
+57	57	57	
+29	30	36	
+33	27	30	
+
+Comparisons: 
+324	336	352	
+72051	72051	72051	
+299	348	347	
+322	336	353	
+
+********************************************************************************************
+For pattern :ATHULT
+False Positives: 
+35	32	33	
+58	58	58	
+30	30	37	
+33	27	30	
+
+Comparisons: 
+325	336	353	
+72386	72386	72386	
+302	348	349	
+322	336	353	
+
+********************************************************************************************
+For pattern :PATILP
+False Positives: 
+36	33	34	
+59	59	59	
+30	30	38	
+33	28	30	
+
+Comparisons: 
+327	338	354	
+72956	72956	72956	
+302	348	357	
+322	337	353	
+
+********************************************************************************************
+For pattern :PATILS
+False Positives: 
+36	33	34	
+60	60	60	
+31	31	38	
+34	29	31	
+
+Comparisons: 
+327	338	354	
+73444	73444	73444	
+303	350	357	
+323	339	354	
+
+********************************************************************************************
+For pattern :SAHILS
+Pattern SAHILS found at index 13395
+There are 1 matches for pattern SAHILS
+
+False Positives: 
+36	33	34	
+60	60	60	
+31	31	38	
+34	29	31	
+
+Comparisons: 
+328	340	356	
+74173	74173	74173	
+304	352	359	
+325	340	358	
+
+********************************************************************************************
+For pattern :SURYAW
+False Positives: 
+37	33	35	
+61	61	61	
+31	32	38	
+35	29	32	
+
+Comparisons: 
+329	340	359	
+74187	74187	74187	
+304	353	359	
+326	340	359	
+
+********************************************************************************************
+For pattern :TEEKAM
+False Positives: 
+38	34	35	
+62	62	62	
+32	33	38	
+36	29	32	
+
+Comparisons: 
+332	341	359	
+74996	74996	74996	
+305	354	359	
+328	340	359	
+
+********************************************************************************************
+For pattern :VISHAL
+Pattern VISHAL found at index 17756
+Pattern VISHAL found at index 31828
+Pattern VISHAL found at index 31821
+There are 3 matches for pattern VISHAL
+
+False Positives: 
+38	34	35	
+62	62	62	
+32	33	38	
+36	29	32	
+
+Comparisons: 
+336	344	362	
+75681	75681	75681	
+308	357	362	
+335	348	366	
+
+********************************************************************************************
+For pattern :AMELIA
+False Positives: 
+39	34	35	
+63	63	63	
+32	34	39	
+37	30	33	
+
+Comparisons: 
+338	344	362	
+76046	76046	76046	
+308	358	369	
+338	350	367	
+
+********************************************************************************************
+For pattern :OLIVIA
+False Positives: 
+40	35	35	
+64	64	64	
+33	35	40	
+37	31	33	
+
+Comparisons: 
+340	346	362	
+76775	76775	76775	
+309	359	371	
+338	351	367	
+
+********************************************************************************************
+For pattern :EMILYA
+False Positives: 
+41	35	36	
+65	65	65	
+33	36	41	
+37	32	33	
+
+Comparisons: 
+341	346	365	
+77564	77564	77564	
+309	360	372	
+338	354	367	
+
+********************************************************************************************
+For pattern :AVAISL
+False Positives: 
+42	36	37	
+66	66	66	
+34	36	42	
+38	32	34	
+
+Comparisons: 
+342	347	366	
+78380	78380	78380	
+310	360	379	
+342	354	368	
+
+********************************************************************************************
+For pattern :ISLAJE
+False Positives: 
+42	36	38	
+67	67	67	
+35	37	43	
+39	32	35	
+
+Comparisons: 
+342	347	367	
+79174	79174	79174	
+311	361	385	
+343	354	370	
+
+********************************************************************************************
+For pattern :JESSIC
+False Positives: 
+42	36	38	
+68	68	68	
+35	37	44	
+40	33	36	
+
+Comparisons: 
+342	347	367	
+79963	79963	79963	
+311	361	386	
+344	356	371	
+
+********************************************************************************************
+For pattern :POPPYI
+False Positives: 
+43	37	38	
+69	69	69	
+36	38	45	
+41	34	37	
+
+Comparisons: 
+344	348	367	
+80015	80015	80015	
+315	364	387	
+345	359	372	
+
+********************************************************************************************
+For pattern :ISABEL
+False Positives: 
+43	37	38	
+70	70	70	
+36	39	46	
+41	34	38	
+
+Comparisons: 
+344	348	367	
+80668	80668	80668	
+315	366	388	
+345	359	373	
+
+********************************************************************************************
+For pattern :SOPHIE
+False Positives: 
+43	37	39	
+71	71	71	
+37	40	47	
+41	35	39	
+
+Comparisons: 
+344	348	368	
+81302	81302	81302	
+318	369	391	
+345	360	375	
+
+********************************************************************************************
+For pattern :MIARUB
+False Positives: 
+43	37	39	
+72	72	72	
+38	40	48	
+41	35	40	
+
+Comparisons: 
+344	348	368	
+82118	82118	82118	
+319	369	392	
+345	360	378	
+
+********************************************************************************************
+For pattern :RUBYLI
+False Positives: 
+43	37	39	
+73	73	73	
+39	40	49	
+41	36	40	
+
+Comparisons: 
+344	348	368	
+82322	82322	82322	
+321	369	396	
+345	361	378	
+
+********************************************************************************************
+For pattern :LILYGR
+False Positives: 
+44	38	40	
+74	74	74	
+40	41	49	
+42	37	40	
+
+Comparisons: 
+345	350	370	
+82650	82650	82650	
+322	371	396	
+346	362	378	
+
+********************************************************************************************
+For pattern :GRACEE
+False Positives: 
+44	38	40	
+75	75	75	
+40	42	49	
+43	38	41	
+
+Comparisons: 
+345	350	370	
+82957	82957	82957	
+322	372	396	
+348	363	380	
+
+********************************************************************************************
+For pattern :EVIESO
+False Positives: 
+45	38	41	
+76	76	76	
+40	43	50	
+43	39	41	
+
+Comparisons: 
+346	350	371	
+83558	83558	83558	
+322	373	400	
+348	364	380	
+
+********************************************************************************************
+For pattern :SOPHIA
+False Positives: 
+45	38	42	
+77	77	77	
+40	43	50	
+44	40	42	
+
+Comparisons: 
+346	350	373	
+84287	84287	84287	
+322	373	400	
+349	365	382	
+
+********************************************************************************************
+For pattern :ELLASC
+False Positives: 
+46	38	43	
+78	78	78	
+40	44	50	
+45	41	43	
+
+Comparisons: 
+347	350	375	
+85042	85042	85042	
+322	374	400	
+352	368	383	
+
+********************************************************************************************
+For pattern :SCARLE
+False Positives: 
+47	38	43	
+79	79	79	
+41	45	50	
+45	42	43	
+
+Comparisons: 
+348	350	375	
+85846	85846	85846	
+324	376	400	
+352	369	383	
+
+********************************************************************************************
+For pattern :CHLOEI
+False Positives: 
+47	38	44	
+80	80	80	
+42	45	50	
+45	42	43	
+
+Comparisons: 
+348	350	377	
+86601	86601	86601	
+325	376	400	
+352	369	383	
+
+********************************************************************************************
+For pattern :ISABEL
+False Positives: 
+47	38	44	
+81	81	81	
+42	46	51	
+45	42	44	
+
+Comparisons: 
+348	350	377	
+87254	87254	87254	
+325	378	401	
+352	369	384	
+
+********************************************************************************************
+For pattern :FREYAC
+False Positives: 
+47	39	44	
+82	82	82	
+43	47	51	
+45	42	45	
+
+Comparisons: 
+348	351	377	
+88058	88058	88058	
+326	379	401	
+352	369	385	
+
+********************************************************************************************
+For pattern :CHARLO
+False Positives: 
+47	40	45	
+83	83	83	
+44	47	51	
+45	43	45	
+
+Comparisons: 
+348	352	382	
+88822	88822	88822	
+328	379	401	
+352	371	385	
+
+********************************************************************************************
+For pattern :SIENNA
+False Positives: 
+48	41	45	
+84	84	84	
+44	48	51	
+46	43	46	
+
+Comparisons: 
+351	353	382	
+89621	89621	89621	
+328	380	401	
+353	371	388	
+
+********************************************************************************************
+For pattern :DAISYP
+False Positives: 
+49	42	46	
+85	85	85	
+45	48	52	
+46	43	46	
+
+Comparisons: 
+352	354	383	
+90191	90191	90191	
+329	380	402	
+353	371	388	
+
+********************************************************************************************
+For pattern :PHOEBE
+False Positives: 
+50	43	47	
+86	86	86	
+45	49	53	
+47	44	47	
+
+Comparisons: 
+353	356	384	
+90913	90913	90913	
+329	382	403	
+354	373	391	
+
+********************************************************************************************
+For pattern :MILLIE
+False Positives: 
+51	43	47	
+87	87	87	
+46	50	54	
+48	44	48	
+
+Comparisons: 
+354	356	384	
+91710	91710	91710	
+342	385	405	
+355	373	392	
+
+********************************************************************************************
+For pattern :EVAALI
+False Positives: 
+51	43	48	
+88	88	88	
+46	51	54	
+48	44	48	
+
+Comparisons: 
+354	356	386	
+92424	92424	92424	
+342	386	405	
+355	373	392	
+
+********************************************************************************************
+For pattern :ALICEL
+False Positives: 
+51	44	49	
+89	89	89	
+46	52	55	
+49	44	48	
+
+Comparisons: 
+354	357	387	
+92781	92781	92781	
+342	387	407	
+357	373	392	
+
+********************************************************************************************
+For pattern :LUCYFL
+False Positives: 
+52	45	49	
+90	90	90	
+47	53	56	
+50	45	49	
+
+Comparisons: 
+355	358	387	
+93213	93213	93213	
+343	388	410	
+358	374	397	
+
+********************************************************************************************
+For pattern :FLOREN
+False Positives: 
+52	45	50	
+91	91	91	
+48	54	57	
+51	46	49	
+
+Comparisons: 
+355	358	388	
+93930	93930	93930	
+345	390	411	
+359	375	397	
+
+********************************************************************************************
+For pattern :SOFIAL
+False Positives: 
+53	45	51	
+92	92	92	
+49	55	58	
+52	47	49	
+
+Comparisons: 
+356	358	390	
+94729	94729	94729	
+346	391	412	
+360	376	397	
+
+********************************************************************************************
+For pattern :LAYLAL
+False Positives: 
+53	46	51	
+93	93	93	
+50	55	59	
+52	48	50	
+
+Comparisons: 
+356	359	390	
+95552	95552	95552	
+347	391	413	
+360	377	398	
+
+********************************************************************************************
+For pattern :LOLAHO
+False Positives: 
+54	46	52	
+94	94	94	
+51	56	59	
+53	49	50	
+
+Comparisons: 
+358	359	391	
+96375	96375	96375	
+348	393	413	
+363	378	398	
+
+********************************************************************************************
+For pattern :HOLLYI
+False Positives: 
+54	46	52	
+95	95	95	
+52	57	60	
+54	49	50	
+
+Comparisons: 
+358	359	391	
+96763	96763	96763	
+349	395	414	
+364	378	398	
+
+********************************************************************************************
+For pattern :IMOGEN
+False Positives: 
+55	47	53	
+96	96	96	
+52	57	60	
+55	50	50	
+
+Comparisons: 
+364	360	392	
+97586	97586	97586	
+349	395	414	
+368	379	398	
+
+********************************************************************************************
+For pattern :MOLLYM
+False Positives: 
+55	48	54	
+97	97	97	
+53	58	60	
+56	51	51	
+
+Comparisons: 
+364	361	394	
+97716	97716	97716	
+352	396	414	
+371	380	400	
+
+********************************************************************************************
+For pattern :MATILD
+False Positives: 
+55	48	54	
+98	98	98	
+53	59	61	
+56	51	52	
+
+Comparisons: 
+364	361	394	
+98627	98627	98627	
+352	399	416	
+371	380	401	
+
+********************************************************************************************
+For pattern :LILLYR
+False Positives: 
+55	48	55	
+99	99	99	
+54	59	61	
+56	51	53	
+
+Comparisons: 
+364	361	397	
+98821	98821	98821	
+354	399	416	
+371	380	402	
+
+********************************************************************************************
+For pattern :ROSIEE
+False Positives: 
+55	48	56	
+100	100	100	
+55	60	62	
+56	51	53	
+
+Comparisons: 
+364	361	398	
+99506	99506	99506	
+355	400	417	
+371	380	402	
+
+********************************************************************************************
+For pattern :ELIZAB
+False Positives: 
+55	48	57	
+101	101	101	
+56	60	63	
+56	52	54	
+
+Comparisons: 
+364	361	402	
+100315	100315	100315	
+356	400	420	
+371	381	403	
+
+********************************************************************************************
+For pattern :ERINMA
+False Positives: 
+55	48	57	
+102	102	102	
+56	61	64	
+56	53	54	
+
+Comparisons: 
+364	361	402	
+101112	101112	101112	
+356	402	421	
+371	384	403	
+
+********************************************************************************************
+For pattern :MAISIE
+False Positives: 
+55	48	57	
+103	103	103	
+56	61	65	
+56	54	54	
+
+Comparisons: 
+364	361	402	
+101906	101906	101906	
+356	402	424	
+371	385	403	
+
+********************************************************************************************
+For pattern :LEXIEL
+False Positives: 
+55	49	57	
+104	104	104	
+57	62	65	
+57	54	54	
+
+Comparisons: 
+364	362	402	
+102646	102646	102646	
+361	404	424	
+372	385	403	
+
+********************************************************************************************
+For pattern :ELLIEH
+False Positives: 
+56	49	57	
+105	105	105	
+57	62	66	
+57	55	55	
+
+Comparisons: 
+367	362	402	
+103368	103368	103368	
+361	404	425	
+372	386	404	
+
+********************************************************************************************
+For pattern :HANNAH
+False Positives: 
+57	50	58	
+106	106	106	
+57	63	67	
+57	55	55	
+
+Comparisons: 
+369	364	404	
+103958	103958	103958	
+361	406	426	
+372	386	404	
+
+********************************************************************************************
+For pattern :EVELYN
+False Positives: 
+58	51	59	
+107	107	107	
+57	64	67	
+58	55	56	
+
+Comparisons: 
+371	365	405	
+104286	104286	104286	
+361	407	426	
+373	386	406	
+
+********************************************************************************************
+For pattern :ABIGAI
+False Positives: 
+59	52	60	
+108	108	108	
+57	64	67	
+58	55	56	
+
+Comparisons: 
+374	369	408	
+104345	104345	104345	
+361	407	426	
+373	386	406	
+
+********************************************************************************************
+For pattern :ELSIES
+False Positives: 
+60	52	60	
+109	109	109	
+57	64	68	
+58	56	56	
+
+Comparisons: 
+375	369	408	
+105032	105032	105032	
+361	407	427	
+373	387	406	
+
+********************************************************************************************
+For pattern :SUMMER
+False Positives: 
+61	52	61	
+110	110	110	
+58	65	69	
+58	56	57	
+
+Comparisons: 
+376	369	414	
+105216	105216	105216	
+363	408	428	
+373	387	407	
+
+********************************************************************************************
+For pattern :MEGANJ
+False Positives: 
+61	53	61	
+111	111	111	
+58	65	69	
+58	57	57	
+
+Comparisons: 
+376	370	414	
+105930	105930	105930	
+363	408	428	
+373	389	407	
+
+********************************************************************************************
+For pattern :JASMIN
+False Positives: 
+61	53	62	
+112	112	112	
+59	65	70	
+58	58	57	
+
+Comparisons: 
+376	370	423	
+106711	106711	106711	
+365	408	431	
+373	390	407	
+
+********************************************************************************************
+For pattern :MAYAAM
+False Positives: 
+62	54	63	
+113	113	113	
+60	66	71	
+58	58	58	
+
+Comparisons: 
+378	371	424	
+107435	107435	107435	
+367	410	433	
+373	390	409	
+
+********************************************************************************************
+For pattern :AMELIE
+False Positives: 
+63	54	63	
+114	114	114	
+61	67	72	
+59	59	59	
+
+Comparisons: 
+380	371	424	
+107907	107907	107907	
+369	411	434	
+374	391	410	
+
+********************************************************************************************
+For pattern :LACEYW
+False Positives: 
+64	54	63	
+115	115	115	
+62	67	73	
+59	60	59	
+
+Comparisons: 
+381	371	424	
+108594	108594	108594	
+370	411	435	
+374	392	410	
+
+********************************************************************************************
+For pattern :WILLOW
+False Positives: 
+64	54	64	
+116	116	116	
+63	67	73	
+59	61	60	
+
+Comparisons: 
+381	371	426	
+108682	108682	108682	
+371	411	435	
+374	393	413	
+
+********************************************************************************************
+For pattern :EMMABE
+False Positives: 
+65	55	65	
+117	117	117	
+64	68	74	
+60	62	60	
+
+Comparisons: 
+382	374	427	
+108989	108989	108989	
+373	412	436	
+376	395	413	
+
+********************************************************************************************
+For pattern :BELLAE
+False Positives: 
+65	56	65	
+118	118	118	
+65	69	74	
+61	62	60	
+
+Comparisons: 
+382	375	427	
+109184	109184	109184	
+375	413	436	
+380	395	413	
+
+********************************************************************************************
+For pattern :ELEANO
+False Positives: 
+65	56	66	
+119	119	119	
+65	69	75	
+61	63	60	
+
+Comparisons: 
+382	375	428	
+109939	109939	109939	
+375	413	438	
+380	396	413	
+
+********************************************************************************************
+For pattern :ESMEEL
+False Positives: 
+65	56	66	
+120	120	120	
+65	69	76	
+62	64	61	
+
+Comparisons: 
+382	375	428	
+110850	110850	110850	
+375	413	440	
+381	398	415	
+
+********************************************************************************************
+For pattern :ELIZAG
+False Positives: 
+66	57	66	
+121	121	121	
+65	70	77	
+63	64	62	
+
+Comparisons: 
+383	380	428	
+111647	111647	111647	
+375	414	442	
+382	398	424	
+
+********************************************************************************************
+For pattern :GEORGI
+False Positives: 
+66	57	66	
+122	122	122	
+66	71	78	
+64	65	62	
+
+Comparisons: 
+383	380	428	
+112485	112485	112485	
+376	417	443	
+384	399	424	
+
+********************************************************************************************
+For pattern :HARRIE
+False Positives: 
+67	58	67	
+123	123	123	
+66	72	79	
+64	66	63	
+
+Comparisons: 
+385	381	429	
+113396	113396	113396	
+376	420	445	
+384	400	425	
+
+********************************************************************************************
+For pattern :GRACIE
+False Positives: 
+67	59	67	
+124	124	124	
+67	72	79	
+65	66	63	
+
+Comparisons: 
+385	382	429	
+113785	113785	113785	
+377	420	445	
+386	400	425	
+
+********************************************************************************************
+For pattern :ANNABE
+False Positives: 
+68	60	68	
+125	125	125	
+67	72	80	
+65	67	64	
+
+Comparisons: 
+388	383	431	
+113980	113980	113980	
+377	420	447	
+386	402	427	
+
+********************************************************************************************
+For pattern :EMILIA
+False Positives: 
+68	60	68	
+126	126	126	
+68	73	81	
+66	68	64	
+
+Comparisons: 
+388	383	431	
+114614	114614	114614	
+378	421	450	
+387	404	427	
+
+********************************************************************************************
+For pattern :AMBERI
+False Positives: 
+68	61	69	
+127	127	127	
+68	73	81	
+66	68	65	
+
+Comparisons: 
+388	384	432	
+115267	115267	115267	
+378	421	450	
+387	404	428	
+
+********************************************************************************************
+For pattern :IVYBRO
+False Positives: 
+68	62	69	
+128	128	128	
+68	73	82	
+66	69	65	
+
+Comparisons: 
+388	387	432	
+115383	115383	115383	
+378	421	451	
+387	405	428	
+
+********************************************************************************************
+For pattern :BROOKE
+False Positives: 
+69	63	70	
+129	129	129	
+68	73	82	
+67	70	65	
+
+Comparisons: 
+389	388	434	
+116164	116164	116164	
+378	421	451	
+388	406	428	
+
+********************************************************************************************
+For pattern :ROSEAN
+False Positives: 
+69	64	70	
+130	130	130	
+68	74	83	
+67	70	66	
+
+Comparisons: 
+389	389	434	
+116798	116798	116798	
+378	424	452	
+388	406	429	
+
+********************************************************************************************
+For pattern :ANNAZA
+False Positives: 
+70	65	71	
+131	131	131	
+69	74	84	
+67	71	67	
+
+Comparisons: 
+390	391	436	
+117562	117562	117562	
+381	424	453	
+388	407	431	
+
+********************************************************************************************
+For pattern :ZARALE
+False Positives: 
+70	66	71	
+132	132	132	
+69	75	85	
+68	71	68	
+
+Comparisons: 
+390	392	436	
+118385	118385	118385	
+381	425	454	
+390	407	432	
+
+********************************************************************************************
+For pattern :LEAHMO
+False Positives: 
+70	67	71	
+133	133	133	
+70	76	85	
+69	71	69	
+
+Comparisons: 
+390	395	436	
+119109	119109	119109	
+382	426	454	
+391	407	433	
+
+********************************************************************************************
+For pattern :MOLLIE
+False Positives: 
+71	67	72	
+134	134	134	
+70	77	86	
+70	72	69	
+
+Comparisons: 
+392	395	437	
+119890	119890	119890	
+382	427	456	
+392	409	433	
+
+********************************************************************************************
+For pattern :MARTHA
+Pattern MARTHA found at index 11087
+There are 1 matches for pattern MARTHA
+
+False Positives: 
+71	67	72	
+134	134	134	
+70	77	86	
+70	72	69	
+
+Comparisons: 
+395	398	440	
+120728	120728	120728	
+388	428	465	
+393	413	437	
+
+********************************************************************************************
+For pattern :FAITHH
+False Positives: 
+71	68	72	
+135	135	135	
+70	78	86	
+70	72	69	
+
+Comparisons: 
+395	399	440	
+121483	121483	121483	
+388	431	465	
+393	413	437	
+
+********************************************************************************************
+For pattern :HOLLIE
+False Positives: 
+71	68	73	
+136	136	136	
+70	78	87	
+70	73	70	
+
+Comparisons: 
+395	399	441	
+122321	122321	122321	
+388	431	467	
+393	414	438	
+
+********************************************************************************************
+For pattern :AMYBET
+False Positives: 
+72	69	74	
+137	137	137	
+70	79	87	
+70	74	71	
+
+Comparisons: 
+398	400	442	
+123102	123102	123102	
+388	432	467	
+393	418	441	
+
+********************************************************************************************
+For pattern :BETHAN
+False Positives: 
+72	69	74	
+138	138	138	
+71	79	88	
+70	74	72	
+
+Comparisons: 
+398	400	442	
+123816	123816	123816	
+389	432	471	
+393	418	442	
+
+********************************************************************************************
+For pattern :VIOLET
+False Positives: 
+72	70	74	
+139	139	139	
+72	79	88	
+70	74	72	
+
+Comparisons: 
+398	401	442	
+124144	124144	124144	
+390	432	471	
+393	418	442	
+
+********************************************************************************************
+For pattern :KATIEM
+False Positives: 
+73	71	75	
+140	140	140	
+72	80	88	
+71	74	73	
+
+Comparisons: 
+399	402	444	
+125055	125055	125055	
+390	436	471	
+394	418	449	
+
+********************************************************************************************
+For pattern :MARYAM
+False Positives: 
+73	72	76	
+141	141	141	
+73	81	89	
+72	75	74	
+
+Comparisons: 
+399	406	447	
+125740	125740	125740	
+392	441	472	
+395	420	450	
+
+********************************************************************************************
+For pattern :FRANCE
+False Positives: 
+73	73	77	
+142	142	142	
+74	82	89	
+73	76	74	
+
+Comparisons: 
+399	407	448	
+126292	126292	126292	
+393	442	472	
+396	422	450	
+
+********************************************************************************************
+For pattern :JULIAM
+False Positives: 
+73	74	77	
+143	143	143	
+75	83	90	
+74	76	75	
+
+Comparisons: 
+399	408	448	
+127073	127073	127073	
+394	443	475	
+397	422	452	
+
+********************************************************************************************
+For pattern :MARIAD
+False Positives: 
+74	75	78	
+144	144	144	
+75	84	91	
+74	76	75	
+
+Comparisons: 
+401	410	449	
+127663	127663	127663	
+394	444	476	
+397	422	452	
+
+********************************************************************************************
+For pattern :DARCEY
+False Positives: 
+75	76	79	
+145	145	145	
+75	84	92	
+75	77	76	
+
+Comparisons: 
+402	411	450	
+128457	128457	128457	
+394	444	478	
+398	423	453	
+
+********************************************************************************************
+For pattern :ISABEL
+False Positives: 
+75	76	79	
+146	146	146	
+75	85	93	
+75	77	77	
+
+Comparisons: 
+402	411	450	
+129110	129110	129110	
+394	446	479	
+398	423	454	
+
+********************************************************************************************
+For pattern :TILLYM
+False Positives: 
+75	77	79	
+147	147	147	
+75	86	94	
+75	77	78	
+
+Comparisons: 
+402	414	450	
+129226	129226	129226	
+394	447	480	
+398	423	455	
+
+********************************************************************************************
+For pattern :MADDIS
+False Positives: 
+76	78	80	
+148	148	148	
+75	86	94	
+76	78	78	
+
+Comparisons: 
+404	415	455	
+129940	129940	129940	
+394	447	480	
+400	424	455	
+
+********************************************************************************************
+For pattern :VICTOR
+False Positives: 
+77	79	81	
+149	149	149	
+76	87	94	
+77	79	78	
+
+Comparisons: 
+405	416	456	
+130144	130144	130144	
+395	451	480	
+402	428	455	
+
+********************************************************************************************
+For pattern :ISOBEL
+False Positives: 
+78	80	82	
+150	150	150	
+77	87	94	
+77	80	79	
+
+Comparisons: 
+406	418	459	
+130943	130943	130943	
+396	451	480	
+402	429	457	
+
+********************************************************************************************
+For pattern :NIAMHS
+False Positives: 
+78	80	82	
+151	151	151	
+77	88	95	
+78	80	80	
+
+Comparisons: 
+406	418	459	
+131759	131759	131759	
+396	452	483	
+403	429	458	
+
+********************************************************************************************
+For pattern :SKYEMA
+False Positives: 
+78	81	83	
+152	152	152	
+78	88	96	
+79	80	80	
+
+Comparisons: 
+406	421	461	
+132329	132329	132329	
+398	452	484	
+405	429	458	
+
+********************************************************************************************
+For pattern :MADISO
+False Positives: 
+79	82	84	
+153	153	153	
+78	89	97	
+79	80	81	
+
+Comparisons: 
+408	425	464	
+133167	133167	133167	
+398	453	487	
+405	429	463	
+
+********************************************************************************************
+For pattern :DARCYA
+False Positives: 
+79	83	84	
+154	154	154	
+79	90	98	
+79	80	82	
+
+Comparisons: 
+408	426	464	
+133922	133922	133922	
+399	454	488	
+405	429	464	
+
+********************************************************************************************
+For pattern :AISHAB
+False Positives: 
+79	83	84	
+155	155	155	
+79	90	99	
+80	81	83	
+
+Comparisons: 
+408	426	464	
+134180	134180	134180	
+399	454	489	
+407	431	465	
+
+********************************************************************************************
+For pattern :BEATRI
+False Positives: 
+80	83	85	
+156	156	156	
+79	91	99	
+81	81	84	
+
+Comparisons: 
+409	426	465	
+134989	134989	134989	
+399	455	489	
+409	431	469	
+
+********************************************************************************************
+For pattern :SARAHZ
+False Positives: 
+81	84	85	
+157	157	157	
+80	91	99	
+82	82	85	
+
+Comparisons: 
+410	427	465	
+135538	135538	135538	
+400	455	489	
+416	432	471	
+
+********************************************************************************************
+For pattern :ZOEPAI
+False Positives: 
+82	84	85	
+158	158	158	
+81	91	99	
+82	83	86	
+
+Comparisons: 
+412	427	465	
+136172	136172	136172	
+401	455	489	
+416	435	472	
+
+********************************************************************************************
+For pattern :PAIGEH
+False Positives: 
+83	85	86	
+159	159	159	
+82	91	100	
+83	84	86	
+
+Comparisons: 
+413	431	470	
+136762	136762	136762	
+402	455	490	
+417	452	472	
+
+********************************************************************************************
+For pattern :HEIDIL
+False Positives: 
+84	85	87	
+160	160	160	
+82	91	100	
+83	85	87	
+
+Comparisons: 
+414	431	473	
+137314	137314	137314	
+402	455	490	
+417	454	475	
+
+********************************************************************************************
+For pattern :LYDIAS
+False Positives: 
+85	86	87	
+161	161	161	
+83	92	101	
+83	85	88	
+
+Comparisons: 
+415	435	473	
+138031	138031	138031	
+403	456	491	
+417	454	476	
+
+********************************************************************************************
+For pattern :OLIVER
+False Positives: 
+86	87	88	
+162	162	162	
+84	92	102	
+83	86	89	
+
+Comparisons: 
+416	436	474	
+138419	138419	138419	
+404	456	494	
+417	455	480	
+
+********************************************************************************************
+For pattern :JACKHA
+False Positives: 
+86	87	89	
+163	163	163	
+84	93	102	
+83	86	89	
+
+Comparisons: 
+416	436	475	
+138574	138574	138574	
+404	457	494	
+417	455	480	
+
+********************************************************************************************
+For pattern :HARRYJ
+False Positives: 
+87	87	89	
+164	164	164	
+85	93	102	
+83	87	89	
+
+Comparisons: 
+417	436	475	
+138973	138973	138973	
+405	457	494	
+417	457	480	
+
+********************************************************************************************
+For pattern :JACOBC
+False Positives: 
+87	88	90	
+165	165	165	
+86	94	103	
+83	87	89	
+
+Comparisons: 
+417	437	478	
+139128	139128	139128	
+406	459	495	
+417	457	480	
+
+********************************************************************************************
+For pattern :CHARLI
+False Positives: 
+87	89	91	
+166	166	166	
+87	95	104	
+84	87	90	
+
+Comparisons: 
+417	439	483	
+139850	139850	139850	
+408	461	497	
+421	457	481	
+
+********************************************************************************************
+For pattern :THOMAS
+False Positives: 
+87	90	91	
+167	167	167	
+87	96	105	
+84	88	90	
+
+Comparisons: 
+417	440	483	
+140342	140342	140342	
+408	463	498	
+421	458	481	
+
+********************************************************************************************
+For pattern :OSCARW
+False Positives: 
+87	91	92	
+168	168	168	
+87	96	105	
+85	89	90	
+
+Comparisons: 
+417	441	484	
+140774	140774	140774	
+408	463	498	
+424	459	481	
+
+********************************************************************************************
+For pattern :WILLIA
+False Positives: 
+88	92	93	
+169	169	169	
+87	97	106	
+86	89	91	
+
+Comparisons: 
+422	443	485	
+141555	141555	141555	
+408	464	499	
+425	459	482	
+
+********************************************************************************************
+For pattern :JAMESG
+False Positives: 
+88	92	94	
+170	170	170	
+88	98	106	
+86	90	91	
+
+Comparisons: 
+422	443	487	
+142364	142364	142364	
+409	465	499	
+425	461	482	
+
+********************************************************************************************
+For pattern :GEORGE
+False Positives: 
+89	93	94	
+171	171	171	
+89	98	107	
+87	91	92	
+
+Comparisons: 
+423	444	487	
+143128	143128	143128	
+410	465	500	
+426	466	486	
+
+********************************************************************************************
+For pattern :ALFIEJ
+False Positives: 
+89	94	95	
+172	172	172	
+90	98	108	
+87	92	93	
+
+Comparisons: 
+423	445	488	
+143517	143517	143517	
+412	465	501	
+426	467	487	
+
+********************************************************************************************
+For pattern :JOSHUA
+False Positives: 
+89	95	95	
+173	173	173	
+91	98	109	
+87	93	94	
+
+Comparisons: 
+423	446	488	
+144087	144087	144087	
+413	465	502	
+426	468	488	
+
+********************************************************************************************
+For pattern :NOAHET
+False Positives: 
+90	95	96	
+174	174	174	
+91	99	109	
+88	93	94	
+
+Comparisons: 
+424	446	491	
+144910	144910	144910	
+413	468	502	
+428	468	488	
+
+********************************************************************************************
+For pattern :ETHANM
+False Positives: 
+91	96	97	
+175	175	175	
+92	99	110	
+88	93	95	
+
+Comparisons: 
+429	447	492	
+145748	145748	145748	
+414	468	503	
+428	468	489	
+
+********************************************************************************************
+For pattern :MUHAMM
+False Positives: 
+92	96	98	
+176	176	176	
+92	100	111	
+89	94	96	
+
+Comparisons: 
+434	447	493	
+146435	146435	146435	
+414	469	504	
+429	469	490	
+
+********************************************************************************************
+For pattern :ARCHIE
+False Positives: 
+92	97	98	
+177	177	177	
+92	101	112	
+90	95	97	
+
+Comparisons: 
+434	448	493	
+146858	146858	146858	
+414	472	505	
+430	472	491	
+
+********************************************************************************************
+For pattern :LEOHEN
+False Positives: 
+92	97	98	
+178	178	178	
+93	101	112	
+91	96	98	
+
+Comparisons: 
+434	448	493	
+147769	147769	147769	
+420	472	505	
+433	473	492	
+
+********************************************************************************************
+For pattern :HENRYJ
+False Positives: 
+93	98	99	
+179	179	179	
+93	101	112	
+92	96	99	
+
+Comparisons: 
+437	450	494	
+148168	148168	148168	
+420	472	505	
+434	473	494	
+
+********************************************************************************************
+For pattern :JOSEPH
+False Positives: 
+93	98	99	
+180	180	180	
+94	102	112	
+92	96	99	
+
+Comparisons: 
+437	450	494	
+148717	148717	148717	
+424	473	505	
+434	473	494	
+
+********************************************************************************************
+For pattern :SAMUEL
+False Positives: 
+93	98	100	
+181	181	181	
+95	103	113	
+93	97	100	
+
+Comparisons: 
+437	450	496	
+149402	149402	149402	
+425	474	507	
+436	482	495	
+
+********************************************************************************************
+For pattern :RILEYD
+False Positives: 
+94	99	101	
+182	182	182	
+96	104	114	
+93	98	100	
+
+Comparisons: 
+443	451	499	
+149951	149951	149951	
+426	475	508	
+436	483	495	
+
+********************************************************************************************
+For pattern :DANIEL
+False Positives: 
+95	100	102	
+183	183	183	
+97	105	114	
+93	98	101	
+
+Comparisons: 
+444	452	500	
+150423	150423	150423	
+427	479	508	
+436	483	497	
+
+********************************************************************************************
+For pattern :MOHAMM
+Pattern MOHAMM found at index 11462
+There are 1 matches for pattern MOHAMM
+
+False Positives: 
+95	100	102	
+183	183	183	
+97	105	114	
+93	98	101	
+
+Comparisons: 
+449	453	503	
+151246	151246	151246	
+429	482	510	
+439	485	499	
+
+********************************************************************************************
+For pattern :ALEXAN
+False Positives: 
+96	100	103	
+184	184	184	
+97	106	115	
+93	98	102	
+
+Comparisons: 
+451	453	505	
+152010	152010	152010	
+429	485	511	
+439	485	501	
+
+********************************************************************************************
+For pattern :MAXLUC
+False Positives: 
+97	100	104	
+185	185	185	
+98	107	116	
+94	99	102	
+
+Comparisons: 
+452	453	506	
+152580	152580	152580	
+430	486	513	
+441	487	501	
+
+********************************************************************************************
+For pattern :LUCASM
+False Positives: 
+98	100	105	
+186	186	186	
+98	107	117	
+95	99	102	
+
+Comparisons: 
+454	453	507	
+153267	153267	153267	
+430	486	516	
+443	487	501	
+
+********************************************************************************************
+For pattern :MASONL
+False Positives: 
+98	101	105	
+187	187	187	
+99	108	118	
+96	100	102	
+
+Comparisons: 
+454	455	507	
+153837	153837	153837	
+431	488	517	
+445	490	501	
+
+********************************************************************************************
+For pattern :LOGANI
+False Positives: 
+99	102	106	
+188	188	188	
+99	109	119	
+96	101	103	
+
+Comparisons: 
+455	456	508	
+154641	154641	154641	
+431	489	518	
+445	496	502	
+
+********************************************************************************************
+For pattern :ISAACB
+False Positives: 
+99	102	107	
+189	189	189	
+100	110	120	
+97	101	103	
+
+Comparisons: 
+455	456	510	
+154913	154913	154913	
+436	490	522	
+447	496	502	
+
+********************************************************************************************
+For pattern :BENJAM
+False Positives: 
+100	102	107	
+190	190	190	
+101	111	120	
+97	101	104	
+
+Comparisons: 
+457	456	510	
+155385	155385	155385	
+438	491	522	
+447	496	504	
+
+********************************************************************************************
+For pattern :DYLANJ
+False Positives: 
+101	102	108	
+191	191	191	
+102	111	120	
+98	102	105	
+
+Comparisons: 
+459	456	511	
+156166	156166	156166	
+443	491	522	
+452	497	505	
+
+********************************************************************************************
+For pattern :JAKEED
+False Positives: 
+102	103	109	
+192	192	192	
+102	112	121	
+98	102	106	
+
+Comparisons: 
+462	459	513	
+156372	156372	156372	
+443	494	523	
+452	497	506	
+
+********************************************************************************************
+For pattern :EDWARD
+False Positives: 
+102	103	109	
+193	193	193	
+102	113	122	
+98	102	106	
+
+Comparisons: 
+462	459	513	
+157181	157181	157181	
+443	497	524	
+452	497	506	
+
+********************************************************************************************
+For pattern :FINLEY
+False Positives: 
+103	103	110	
+194	194	194	
+103	114	122	
+98	102	107	
+
+Comparisons: 
+464	459	515	
+157866	157866	157866	
+444	499	524	
+452	497	508	
+
+********************************************************************************************
+For pattern :FREDDI
+False Positives: 
+104	104	110	
+195	195	195	
+104	115	122	
+99	103	107	
+
+Comparisons: 
+466	461	515	
+158456	158456	158456	
+445	501	524	
+453	498	508	
+
+********************************************************************************************
+For pattern :HARRIS
+False Positives: 
+105	105	111	
+196	196	196	
+105	116	123	
+99	104	107	
+
+Comparisons: 
+467	463	516	
+159005	159005	159005	
+446	503	525	
+453	500	508	
+
+********************************************************************************************
+For pattern :TYLERS
+False Positives: 
+105	105	112	
+197	197	197	
+105	117	124	
+100	105	108	
+
+Comparisons: 
+467	463	517	
+159060	159060	159060	
+446	507	526	
+454	502	510	
+
+********************************************************************************************
+For pattern :SEBAST
+False Positives: 
+105	105	112	
+198	198	198	
+106	118	124	
+100	105	108	
+
+Comparisons: 
+467	463	517	
+159841	159841	159841	
+448	508	526	
+454	502	510	
+
+********************************************************************************************
+For pattern :ZACHAR
+False Positives: 
+105	106	113	
+199	199	199	
+107	119	124	
+100	106	108	
+
+Comparisons: 
+467	465	518	
+160605	160605	160605	
+450	511	526	
+454	503	510	
+
+********************************************************************************************
+For pattern :ADAMTH
+False Positives: 
+106	107	114	
+200	200	200	
+108	120	124	
+101	107	108	
+
+Comparisons: 
+472	470	521	
+161157	161157	161157	
+452	513	526	
+455	506	510	
+
+********************************************************************************************
+For pattern :THEOJA
+False Positives: 
+106	108	114	
+201	201	201	
+108	120	125	
+101	108	109	
+
+Comparisons: 
+472	472	521	
+162068	162068	162068	
+452	513	527	
+455	508	511	
+
+********************************************************************************************
+For pattern :JAYDEN
+False Positives: 
+106	109	114	
+202	202	202	
+109	121	126	
+101	108	110	
+
+Comparisons: 
+472	474	521	
+162979	162979	162979	
+453	515	528	
+455	508	515	
+
+********************************************************************************************
+For pattern :ARTHUR
+False Positives: 
+106	109	115	
+203	203	203	
+110	121	127	
+101	109	111	
+
+Comparisons: 
+472	474	522	
+163200	163200	163200	
+455	515	529	
+455	509	516	
+
+********************************************************************************************
+For pattern :TOBYLU
+False Positives: 
+107	109	116	
+204	204	204	
+111	121	128	
+101	110	112	
+
+Comparisons: 
+473	474	524	
+163283	163283	163283	
+458	515	531	
+455	510	518	
+
+********************************************************************************************
+For pattern :LUKELE
+False Positives: 
+108	109	117	
+205	205	205	
+111	122	129	
+102	111	112	
+
+Comparisons: 
+474	474	527	
+164064	164064	164064	
+458	516	532	
+456	514	518	
+
+********************************************************************************************
+For pattern :LEWISM
+False Positives: 
+108	109	118	
+206	206	206	
+112	123	130	
+102	112	113	
+
+Comparisons: 
+474	474	530	
+164452	164452	164452	
+460	518	533	
+456	516	519	
+
+********************************************************************************************
+For pattern :MATTHE
+False Positives: 
+108	109	118	
+207	207	207	
+113	123	130	
+102	112	113	
+
+Comparisons: 
+474	474	530	
+165192	165192	165192	
+461	518	533	
+456	516	519	
+
+********************************************************************************************
+For pattern :HARVEY
+False Positives: 
+109	110	118	
+208	208	208	
+114	123	131	
+103	113	113	
+
+Comparisons: 
+475	478	530	
+165624	165624	165624	
+463	518	536	
+458	517	519	
+
+********************************************************************************************
+For pattern :HARLEY
+False Positives: 
+109	111	118	
+209	209	209	
+115	124	132	
+104	114	113	
+
+Comparisons: 
+475	479	530	
+166311	166311	166311	
+466	519	540	
+459	518	519	
+
+********************************************************************************************
+For pattern :DAVIDR
+False Positives: 
+109	112	118	
+210	210	210	
+116	125	133	
+104	115	113	
+
+Comparisons: 
+475	480	530	
+167115	167115	167115	
+467	520	541	
+459	521	519	
+
+********************************************************************************************
+For pattern :RYANTO
+False Positives: 
+110	112	118	
+211	211	211	
+116	126	134	
+105	115	113	
+
+Comparisons: 
+476	480	530	
+167233	167233	167233	
+467	522	542	
+460	521	519	
+
+********************************************************************************************
+For pattern :TOMMYM
+False Positives: 
+111	113	119	
+212	212	212	
+116	127	135	
+105	116	113	
+
+Comparisons: 
+477	481	531	
+167288	167288	167288	
+467	524	543	
+460	522	519	
+
+********************************************************************************************
+For pattern :MICHAE
+False Positives: 
+112	114	119	
+213	213	213	
+116	127	135	
+105	116	113	
+
+Comparisons: 
+478	482	531	
+167595	167595	167595	
+467	524	543	
+460	522	519	
+
+********************************************************************************************
+For pattern :REUBEN
+False Positives: 
+112	114	119	
+214	214	214	
+116	127	135	
+105	117	114	
+
+Comparisons: 
+478	482	531	
+168384	168384	168384	
+467	524	543	
+460	525	521	
+
+********************************************************************************************
+For pattern :NATHAN
+Pattern NATHAN found at index 14208
+Pattern NATHAN found at index 13257
+Pattern NATHAN found at index 10104
+Pattern NATHAN found at index 6511
+There are 4 matches for pattern NATHAN
+
+False Positives: 
+112	114	119	
+214	214	214	
+116	127	135	
+105	117	114	
+
+Comparisons: 
+483	492	537	
+169188	169188	169188	
+471	529	547	
+465	530	525	
+
+********************************************************************************************
+For pattern :BLAKEM
+False Positives: 
+113	114	120	
+215	215	215	
+116	128	136	
+106	117	115	
+
+Comparisons: 
+485	492	541	
+169611	169611	169611	
+471	531	548	
+466	530	526	
+
+********************************************************************************************
+For pattern :MOHAMM
+Pattern MOHAMM found at index 11462
+There are 1 matches for pattern MOHAMM
+
+False Positives: 
+113	114	120	
+215	215	215	
+116	128	136	
+106	117	115	
+
+Comparisons: 
+490	493	544	
+170434	170434	170434	
+473	534	550	
+469	532	528	
+
+********************************************************************************************
+For pattern :JENSON
+False Positives: 
+113	114	120	
+216	216	216	
+117	129	136	
+106	117	116	
+
+Comparisons: 
+490	493	544	
+170922	170922	170922	
+474	536	550	
+469	532	529	
+
+********************************************************************************************
+For pattern :BOBBYL
+False Positives: 
+113	114	121	
+217	217	217	
+117	130	137	
+107	117	117	
+
+Comparisons: 
+490	493	545	
+171726	171726	171726	
+474	539	551	
+470	532	531	
+
+********************************************************************************************
+For pattern :LUCACH
+False Positives: 
+113	115	121	
+218	218	218	
+118	131	137	
+108	117	118	
+
+Comparisons: 
+490	494	545	
+172379	172379	172379	
+476	541	551	
+471	532	532	
+
+********************************************************************************************
+For pattern :CHARLE
+False Positives: 
+113	115	122	
+219	219	219	
+119	131	138	
+109	117	119	
+
+Comparisons: 
+490	494	550	
+172931	172931	172931	
+477	541	552	
+472	532	535	
+
+********************************************************************************************
+For pattern :FRANKI
+False Positives: 
+114	116	123	
+220	220	220	
+119	131	139	
+110	117	119	
+
+Comparisons: 
+492	495	552	
+173842	173842	173842	
+477	541	553	
+473	532	535	
+
+********************************************************************************************
+For pattern :DEXTER
+False Positives: 
+115	117	123	
+221	221	221	
+119	132	140	
+110	117	120	
+
+Comparisons: 
+495	497	552	
+174334	174334	174334	
+477	542	557	
+473	532	536	
+
+********************************************************************************************
+For pattern :KAIALE
+False Positives: 
+116	118	124	
+222	222	222	
+120	132	140	
+111	117	121	
+
+Comparisons: 
+496	498	553	
+174641	174641	174641	
+479	542	557	
+474	532	537	
+
+********************************************************************************************
+For pattern :ALEXCO
+False Positives: 
+116	119	125	
+223	223	223	
+120	132	140	
+112	117	122	
+
+Comparisons: 
+496	500	554	
+175438	175438	175438	
+479	542	557	
+476	532	539	
+
+********************************************************************************************
+For pattern :CONNOR
+False Positives: 
+116	119	125	
+224	224	224	
+120	132	141	
+113	117	123	
+
+Comparisons: 
+496	500	554	
+175870	175870	175870	
+479	542	558	
+478	532	540	
+
+********************************************************************************************
+For pattern :LIAMJA
+False Positives: 
+117	120	126	
+225	225	225	
+120	133	142	
+113	117	124	
+
+Comparisons: 
+500	501	558	
+176460	176460	176460	
+479	543	560	
+478	532	541	
+
+********************************************************************************************
+For pattern :JAMIEE
+False Positives: 
+117	120	126	
+226	226	226	
+121	133	142	
+113	118	124	
+
+Comparisons: 
+500	501	558	
+176849	176849	176849	
+480	543	560	
+478	533	541	
+
+********************************************************************************************
+For pattern :ELIJAH
+False Positives: 
+117	120	127	
+227	227	227	
+121	134	143	
+113	118	124	
+
+Comparisons: 
+500	501	559	
+177321	177321	177321	
+480	545	561	
+478	533	541	
+
+********************************************************************************************
+For pattern :STANLE
+False Positives: 
+117	121	128	
+228	228	228	
+121	134	143	
+114	119	124	
+
+Comparisons: 
+500	502	561	
+178006	178006	178006	
+480	545	561	
+483	534	541	
+
+********************************************************************************************
+For pattern :LOUIEJ
+False Positives: 
+118	122	128	
+229	229	229	
+121	134	144	
+114	120	125	
+
+Comparisons: 
+503	504	561	
+178640	178640	178640	
+480	545	562	
+483	538	542	
+
+********************************************************************************************
+For pattern :JUDECA
+False Positives: 
+119	122	129	
+230	230	230	
+121	135	145	
+115	120	126	
+
+Comparisons: 
+505	504	562	
+179063	179063	179063	
+480	549	564	
+485	538	543	
+
+********************************************************************************************
+For pattern :CALLUM
+False Positives: 
+120	123	129	
+231	231	231	
+122	136	146	
+115	121	126	
+
+Comparisons: 
+506	505	562	
+179862	179862	179862	
+481	551	565	
+485	543	543	
+
+********************************************************************************************
+For pattern :HUGOLE
+False Positives: 
+120	123	129	
+232	232	232	
+123	137	147	
+115	121	127	
+
+Comparisons: 
+506	505	562	
+180591	180591	180591	
+482	553	567	
+485	543	549	
+
+********************************************************************************************
+For pattern :LEONEL
+False Positives: 
+120	124	130	
+233	233	233	
+124	138	147	
+116	122	127	
+
+Comparisons: 
+506	506	564	
+181414	181414	181414	
+484	555	567	
+486	546	549	
+
+********************************************************************************************
+For pattern :ELLIOT
+False Positives: 
+120	124	131	
+234	234	234	
+125	138	148	
+117	123	128	
+
+Comparisons: 
+506	506	565	
+181963	181963	181963	
+485	555	571	
+487	550	550	
+
+********************************************************************************************
+For pattern :LOUIST
+False Positives: 
+121	125	132	
+235	235	235	
+126	139	149	
+118	124	129	
+
+Comparisons: 
+507	510	571	
+182031	182031	182031	
+487	556	572	
+492	551	551	
+
+********************************************************************************************
+For pattern :THEODO
+False Positives: 
+122	125	132	
+236	236	236	
+126	139	150	
+119	124	129	
+
+Comparisons: 
+508	510	571	
+182771	182771	182771	
+487	556	575	
+493	551	551	
+
+********************************************************************************************
+For pattern :GABRIE
+False Positives: 
+122	125	133	
+237	237	237	
+127	140	150	
+119	125	130	
+
+Comparisons: 
+508	510	572	
+183128	183128	183128	
+490	558	575	
+493	552	552	
+
+********************************************************************************************
+For pattern :OLLIEA
+False Positives: 
+122	125	134	
+238	238	238	
+128	141	151	
+119	125	130	
+
+Comparisons: 
+508	510	573	
+183852	183852	183852	
+491	559	578	
+493	552	552	
+
+********************************************************************************************
+For pattern :AARONF
+False Positives: 
+123	125	134	
+239	239	239	
+129	141	152	
+119	126	131	
+
+Comparisons: 
+511	510	573	
+184661	184661	184661	
+493	559	579	
+493	553	553	
+
+********************************************************************************************
+For pattern :FREDER
+False Positives: 
+123	126	134	
+240	240	240	
+129	142	153	
+119	127	132	
+
+Comparisons: 
+511	512	573	
+185455	185455	185455	
+493	561	580	
+493	554	557	
+
+********************************************************************************************
+For pattern :EVANEL
+False Positives: 
+123	126	135	
+241	241	241	
+130	142	153	
+119	127	133	
+
+Comparisons: 
+511	512	574	
+186366	186366	186366	
+494	561	580	
+493	554	558	
+
+********************************************************************************************
+For pattern :ELLIOT
+False Positives: 
+123	126	136	
+242	242	242	
+131	142	154	
+120	128	134	
+
+Comparisons: 
+511	512	575	
+186915	186915	186915	
+495	561	584	
+494	558	559	
+
+********************************************************************************************
+For pattern :OWENTE
+False Positives: 
+124	127	137	
+243	243	243	
+132	143	154	
+121	129	134	
+
+Comparisons: 
+512	514	576	
+187250	187250	187250	
+500	565	584	
+498	561	559	
+
+********************************************************************************************
+For pattern :TEDDYF
+False Positives: 
+125	128	137	
+244	244	244	
+133	144	155	
+122	130	135	
+
+Comparisons: 
+513	515	576	
+188066	188066	188066	
+501	568	585	
+499	562	561	
+
+********************************************************************************************
+For pattern :FINLAY
+False Positives: 
+125	128	137	
+245	245	245	
+134	144	156	
+123	131	135	
+
+Comparisons: 
+513	515	576	
+188806	188806	188806	
+505	568	586	
+500	563	561	
+
+********************************************************************************************
+For pattern :CALEBI
+False Positives: 
+126	128	138	
+246	246	246	
+134	144	157	
+124	132	136	
+
+Comparisons: 
+514	515	577	
+188908	188908	188908	
+505	568	587	
+501	567	563	
+
+********************************************************************************************
+For pattern :IBRAHI
+Pattern IBRAHI found at index 6359
+There are 1 matches for pattern IBRAHI
+
+False Positives: 
+126	128	138	
+246	246	246	
+134	144	157	
+124	132	136	
+
+Comparisons: 
+516	518	578	
+189460	189460	189460	
+506	571	588	
+504	568	564	
+
+********************************************************************************************
+For pattern :RONNIE
+False Positives: 
+127	129	138	
+247	247	247	
+135	145	158	
+124	133	137	
+
+Comparisons: 
+517	521	578	
+190061	190061	190061	
+507	572	590	
+504	572	565	
+
+********************************************************************************************
+For pattern :FELIXA
+False Positives: 
+127	130	139	
+248	248	248	
+136	146	159	
+125	134	137	
+
+Comparisons: 
+517	526	580	
+190825	190825	190825	
+508	573	591	
+506	573	565	
+
+********************************************************************************************
+For pattern :AIDENC
+False Positives: 
+127	130	140	
+249	249	249	
+137	146	160	
+126	134	137	
+
+Comparisons: 
+517	526	581	
+191031	191031	191031	
+510	573	592	
+507	573	565	
+
+********************************************************************************************
+For pattern :CAMERO
+False Positives: 
+128	130	140	
+250	250	250	
+138	147	161	
+127	134	138	
+
+Comparisons: 
+518	526	581	
+191840	191840	191840	
+513	574	593	
+508	573	570	
+
+********************************************************************************************
+For pattern :AUSTIN
+False Positives: 
+129	130	140	
+251	251	251	
+139	148	162	
+127	135	139	
+
+Comparisons: 
+519	526	581	
+192116	192116	192116	
+514	575	594	
+508	574	571	
+
+********************************************************************************************
+For pattern :KIANRO
+False Positives: 
+130	131	141	
+252	252	252	
+140	149	162	
+127	135	139	
+
+Comparisons: 
+521	530	582	
+192845	192845	192845	
+516	576	594	
+508	574	571	
+
+********************************************************************************************
+For pattern :RORYSE
+False Positives: 
+130	131	141	
+253	253	253	
+140	149	163	
+128	136	140	
+
+Comparisons: 
+521	530	582	
+192880	192880	192880	
+516	576	596	
+509	575	572	
+
+********************************************************************************************
+For pattern :SETHRO
+False Positives: 
+130	131	141	
+254	254	254	
+140	150	163	
+128	137	140	
+
+Comparisons: 
+521	530	582	
+193097	193097	193097	
+516	578	596	
+509	576	572	
+
+********************************************************************************************
+For pattern :ROBERT
+False Positives: 
+130	132	142	
+255	255	255	
+141	151	163	
+128	138	141	
+
+Comparisons: 
+521	532	583	
+193558	193558	193558	
+517	579	596	
+509	578	573	
+
+********************************************************************************************
+For pattern :ALBERT
+False Positives: 
+131	132	143	
+256	256	256	
+142	151	164	
+129	139	141	
+
+Comparisons: 
+523	532	584	
+194362	194362	194362	
+518	579	597	
+510	580	573	
+
+*********************************************************************
+Total Sum of false positives and Comparisons: 
+
+False Positives: 
+131	132	143	
+256	256	256	
+142	151	164	
+129	139	141	
+
+Comparisons: 
+523	532	584	
+194362	194362	194362	
+518	579	597	
+510	580	573	
+
